@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #075b87;
+  --primary-color: #071c2e;
   --secondary-color: #0f0f0f;
   --accent-color: #FFA500;
   --text-color: #333333;
@@ -108,9 +108,6 @@ h4 {
   color: var(--text-color);
   margin-bottom: 2rem;
   position: relative;
-}
-.highlight {
-  color: var(--primary-color);
 }
 .tab-menu-container {
   background: var(--white);

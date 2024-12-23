@@ -140,10 +140,10 @@ paginate = 6
 
   footer_services_title = "Tentang Kami"
   footer_contact_title = "Hubungi Kami"
-  footer_bottom_text = "@2024 BetonMIxMurah.Com"
+  footer_bottom_text = "@2025 BetonMixMurah.Com"
 
 # Testimonials Section
-  testimonials_title = "Pendapat Klien Kami"
+  testimonials_title = "Testimoni"
   listhome_title = "Produk & Layanan Kami"
 
   [[params.footer_services]]
@@ -240,7 +240,7 @@ rating = 5
 
   # Menu Section
   [[params.menu_items]]
-    title = "Beranda"
+    title = "Home"
     url = "/"
   [[params.menu_items]]
     title = "Kontak"
@@ -255,8 +255,7 @@ rating = 5
     url = "/crane/"
 
 [params.header]
-   title = "Supplier Pagar Panel Beton dan Sewa Truk Crane Terbaik | "
-   highlight = "BetonMIxMurah.com"
+   title = "Supplier Pagar Panel Beton dan Sewa Truk Crane Terbaik"
 
 [markup]
   [markup.tableOfContents]
