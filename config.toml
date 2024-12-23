@@ -1,0 +1,286 @@
+baseURL = "https://betonmixmurah.com"
+languageCode = "id"
+title = "Betonmixmurah.com | Supplier Pagar Panel Beton dan Sewa Truk Crane Terbaik"
+theme = "saeseen-hugo"
+summaryLength = 25
+paginate = 6
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+  category = "/:slug/"
+
+[params]
+  # Site-wide settings
+  meta_description = "Supplier Pagar Panel Beton dan Layanan Sewa Truk Crane di Jabodetabek & Sekitarnya dengan layanan terbaik"
+  viewport = "width=device-width, initial-scale=1.0"
+  fontawesome = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+  logo = "/images/logo/bm-512x512.png"
+  logo_amp = "/images/logo/bm-512x512.png"
+  footer_logo = "/images/logo/beton-mix-450x240.png"
+  favicon = "/images/logo/favicon.ico"
+  featured_image = "/images/admin/featured-image.png"
+  author = "Hudoyo P"
+  telepon = "//+6281318955453"
+  whatsapp = "//api.whatsapp.com/send?phone=6281318955453&text=*Halo betonmixmurah.com*%20%3A"
+  enableWhatApps = true
+  enableTelepon = true
+  tocMinWordCount = 300
+  tableOfContent = "Daftar Isi:"
+  geo_latitude = -6.595038
+  geo_longitude = 106.817787
+  opening_hours = "Mo-Sa 08:00-17:00"
+
+# Schema settings
+  base_price = 500000
+  price_range = 1500000
+
+  categories = [
+    "Pagar Panel Beton",
+    "Pagar Panel Precast",
+    "Pagar Beton Modular",
+    "Truk Crane Rental"
+]
+
+  payment_methods = [
+    "COD (Bayar di Tempat)",
+    "Transfer Bank", 
+    "DP 50%",
+    "Bayar Saat Tiba",
+    "Bayar Bertahap",
+    "Transfer Setelah Selesai"
+]
+
+  area_served = [
+    "Jakarta",
+    "Bogor", 
+    "Depok",
+    "Tangerang",
+    "Bekasi",
+    "Cikarang",
+    "Karawang",
+    "Bandung",
+    "Serang",
+    "Purwakarta",
+    "Cilegon",
+    "Rangkasbitung"
+]
+
+  keywords = [
+    "jual pagar panel beton",
+    "pagar beton modular",
+    "sewa truk crane",
+    "pagar precast berkualitas", 
+    "harga pagar beton ekonomis",
+    "truk crane untuk konstruksi"
+]
+
+  free_shipping = true
+
+# Product 
+  materials = [
+    "Pagar Panel Beton Polos",
+    "Pagar Panel Beton Motif",
+    "Pagar Panel Beton 2 Lapis",
+    "Pagar Panel Beton 4 Lapis",
+    "Pagar Panel Beton Custom"
+]
+
+  return_policies = [
+    "Pengembalian dalam 1 hari jika produk tidak sesuai.",
+    "Tolak barang jika kualitas tidak sesuai spesifikasi.",
+    "Gratis biaya pengembalian untuk produk yang salah kirim."
+]
+
+# Service
+  service_types = [
+    "Sewa Truk Crane Harian",
+    "Sewa Truk Crane Mingguan", 
+    "Sewa Truk Crane Bulanan",
+    "Pengangkutan Material Proyek",
+    "Penanganan Barang Berat"
+]
+
+  cancellation_policies = [
+    "Pembatalan dapat dilakukan jika layanan tidak sesuai perjanjian.",
+    "Pengembalian dana jika hasil tidak memuaskan.",
+    "Revisi tanpa biaya tambahan jika kualitas layanan kurang optimal."
+]
+
+  service_output = "Pengangkutan material konstruksi yang efisien dan aman dengan layanan Truk Crane terbaik untuk proyek Anda."
+
+# Profile Owner
+  profilePhoto = "/images/admin/hudoyo.jpg"
+  ownerName = "Hudoyo P"
+  ownerProfession = "Spesialis Pemasaran Pagar Panel dan Sewa Truk Crane"
+  ownerHobbies = "Mempelajari inovasi konstruksi, menjelajahi lokasi pemasangan pagar panel, dan berinteraksi dengan profesional di bidang logistik dan angkutan berat"
+  ownerMotto = "Menghubungkan solusi konstruksi dan logistik untuk membangun masa depan yang lebih baik"
+
+# Informasi Perusahaan
+  companyName = "PT. Inti Bangun Bumi"
+  aboutUs = "Kami adalah perusahaan yang telah beroperasi selama lebih dari 5 tahun, menyediakan produk pagar panel beton berkualitas tinggi dan layanan sewa truk crane untuk mendukung kebutuhan proyek konstruksi di wilayah Jabodetabek, Jawa Barat, dan Banten. Komitmen kami adalah memberikan solusi terbaik yang efisien dan sesuai kebutuhan pelanggan."
+  companyWeb = "betonmixmurah.com"
+
+  # Informasi Kontak
+  phone = "0813-1895-5453"
+  email = "readybetonmix@gmail.com"
+  address = "Jl. Pesantren Al Fatah No.41, Pasir Angin, Kec. Cileungsi, Kab. Bogor, Jawa Barat 16820"
+  whatsappNumber = "6281318955453"
+
+# Hero Section
+  hero_image = "/images/admin/pagar-panel-beton.jpg"
+  hero_title = "Supplier Pagar Panel dan Sewa Truk Crane Terpercaya"
+  hero_description = "Solusi pagar panel beton berkualitas tinggi dan layanan sewa truk crane profesional untuk mendukung kebutuhan proyek konstruksi Anda. Didukung tim berpengalaman dan produk bermutu untuk hasil yang efisien dan tahan lama."
+  hero_cta_text = "Produk & Layanan"
+  services_cta_text = "Lihat Produk Kami"
+
+# Footer Section
+  footer_about_title = "Kenapa Memilih Kami?"
+  footer_about_description = "Karena kami adalah pilihan jasa berpengalaman sebagai supplier pagar panel beton dan layanan sewa truk crane terpercaya di wilayah Jabodetabek, Jawa Barat, dan Banten. Kami berkomitmen untuk menyediakan produk berkualitas tinggi dan layanan yang memenuhi kebutuhan dan harapan pelanggan kami."
+
+  footer_services_title = "Tentang Kami"
+  footer_contact_title = "Hubungi Kami"
+  footer_bottom_text = "@2024 BetonMIxMurah.Com"
+
+# Testimonials Section
+  testimonials_title = "Pendapat Klien Kami"
+  listhome_title = "Produk & Layanan Kami"
+
+  [[params.footer_services]]
+  text = "betonmixmurah.com adalah website resmi jasa berpengalaman sebagai supplier pagar panel beton dan layanan sewa truk crane terpercaya di wilayah Jabodetabek, Jawa Barat, dan Banten. Kami berkomitmen untuk menyediakan produk berkualitas tinggi dan layanan yang memenuhi kebutuhan dan harapan pelanggan kami."
+
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Jl. Pesantren Al Fatah No.41, Pasir Angin, Kec. Cileungsi, Kab. Bogor, Jawa Barat 16820"
+  [[params.footer_contact]]
+    icon = "fas fa-phone-alt"
+    text = "0813-1895-5453"
+  [[params.footer_contact]]
+    icon = "fas fa-envelope"
+    text = "readybetonmix@gmail.com"
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar1.png"
+name = "{Budi|Joko|Andi|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi|Surya|Irwan|Gunawan|Dani|Rahman}"
+message = "Saya {sangat puas|terkesan|kagum} dengan {layanan|service|jasa} pagar panel dan sewa truk crane dari betonmixmurah.com untuk {proyek|pembangunan|konstruksi|pengerjaan|renovasi} {rumah|gedung|bangunan} saya. {Hasilnya|Kualitasnya|Pengerjaannya} {sangat memuaskan|luar biasa|menakjubkan|sempurna|excellent} dan {proses pengerjaannya|pelaksanaannya|penanganannya} {sangat rapi|profesional|terstruktur|sistematis|terorganisir}. {Tim teknisnya|Para pekerjanya|Stafnya} {sangat berpengalaman|ahli|kompeten|handal|terampil} dan material yang {disediakan|dikirim|dipasok|digunakan} {berkualitas tinggi|bermutu premium|kualitas terbaik|standar tinggi}."
+response = "{Terima kasih|Kami berterima kasih|Apresiasi tinggi} atas {kepercayaan|dukungan|pilihan|keyakinan|penilaian} Anda! Kami {akan terus|selalu|senantiasa|berkomitmen} {memberikan|menghadirkan|menyajikan} {layanan|service|pengerjaan} {terbaik|optimal|maksimal|berkualitas} untuk setiap {proyek|pekerjaan|konstruksi} {pelanggan|client|customer} kami."
+rating = 5
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar2.png"
+name = "{Siti|Dewi|Rina|Maya|Lina|Sari|Fitri|Nur|Diah|Ayu|Sarah|Putri|Ratna|Nina|Lisa}"
+message = "betonmixmurah.com {sangat membantu|mempermudah|menyelesaikan|memfasilitasi|mendukung} dalam {memenuhi|menyediakan|mengakomodasi|merealisasikan} kebutuhan pagar panel dan truk crane untuk {proyek|pembangunan|konstruksi|pengerjaan} kami di {Jabodetabek|Jakarta dan sekitarnya|area Jakarta|wilayah Jabodetabek}. {Produk|Material|Barang} yang {kami terima|dikirimkan|disuplai|dipasok} {selalu|senantiasa|konsisten} {berkualitas|bermutu tinggi|terjamin mutunya|sesuai standar} dan {pengirimannya|deliverynya|distribusinya} {tepat waktu|on time|sesuai jadwal|tidak terlambat}. {Pelayanannya|Servicenya|Handling proyeknya} juga {sangat memuaskan|professional|excellent|luar biasa}."
+response = "{Terima kasih|Kami apresiasi|Penghargaan tinggi} atas {ulasan|review|testimoni|feedback} {positifnya|baiknya|membangunnya}! {Kepuasan|Kepercayaan|Kenyamanan} {pelanggan|client|customer} adalah {prioritas|fokus|komitmen} utama kami dalam {memberikan|menyediakan|menghadirkan} layanan pagar panel dan truk crane."
+rating = 4
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar3.png"
+name = "{Joko|Bambang|Hadi|Tono|Gilang|Bayu|Faisal|Rizal|Ali|Ahmad|Rudi|Danu|Fadli|Yusuf|Rama}"
+message = "{Pengalaman|Profesionalitas|Keahlian} {5 tahun|bertahun-tahun|yang panjang} mereka {benar-benar|sangat|sungguh} {terlihat|terbukti|tercermin|tergambar} dari {kualitas|mutu|hasil} pengerjaan dan {layanan|service|penanganan proyek} yang {profesional|berkualitas|excellent|memuaskan|terpercaya}. {Sangat puas|Senang sekali|Puas sekali|Bangga|Terkesan} dengan {hasil|kualitas|mutu} {produk|konstruksi|pemasangan} dari betonmixmurah.com. {Tim lapangan|Pekerja|Staf teknis}nya {sangat kooperatif|ramah|responsif|cepat tanggap|profesional}."
+response = "{Terima kasih|Apresiasi tinggi|Kami berterima kasih} atas {kepercayaannya|dukungannya|penilaiannya}! Kami {akan terus|selalu|senantiasa} {berupaya|berusaha|berkomitmen} memberikan {layanan|service|pengerjaan} {terbaik|optimal|maksimal} dengan {standar|kualitas|mutu} tinggi untuk setiap {proyek|pekerjaan|konstruksi}."
+rating = 5
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar4.png"
+name = "{Andi|Eko|Deni|Hendra|Toni|Wawan|Gilang|Ari|Benny|Yudi|Wisnu|Dharma|Adit|Putra|Ramli}"
+message = "Tim betonmixmurah.com {sangat memahami|mengerti dengan baik|memahami betul|sangat mengerti|paham sekali} {kebutuhan|keperluan|permintaan|spesifikasi|requirement} {proyek|pembangunan|konstruksi|pengerjaan|pekerjaan} kami. {Hasil pemasangan|Kualitas pagar panel|Mutu material|Hasil akhir|Pengerjaannya} dan {ketepatan waktu|timeline|jadwal|timing|kecepatan} {pengiriman|delivery|distribusi|supply|penyaluran} {sangat memuaskan|luar biasa|excellent|sempurna|top notch}. {Tidak ada kendala|Semua lancar|Proses mulus|Tanpa hambatan|Sangat lancar} dari {awal|mulai|start} hingga {selesai|finish|akhir|pembangunan rampung|proyek berakhir}."
+response = "Kami {senang|gembira|bahagia|bersyukur} bisa {membantu|mendukung|berkontribusi|berpartisipasi|terlibat}! {Kepuasan|Kepercayaan|Kenyamanan|Kebahagiaan|Feedback} pelanggan adalah {motivasi|dorongan|semangat|inspirasi} kami untuk terus {meningkatkan|mengembangkan|memperbaiki|memaksimalkan|mengoptimalkan} {kualitas|mutu|standar|level} layanan."
+rating = 5
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar5.png"
+name = "{Rina|Siti|Lina|Dewi|Ayu|Sari|Fitri|Maya|Nur|Diah|Anita|Vina|Rini|Susan|Clara}"
+message = "Pelayanan betonmixmurah.com {sangat membantu|memudahkan|mempercepat|melancarkan|mengoptimalkan} {proyek|pembangunan|konstruksi|pengerjaan|pekerjaan} {konstruksi|pembangunan|pengembangan|renovasi} kami. {Proses pengerjaan|Pelaksanaan|Implementasi|Eksekusi|Penanganan} {rapi|teratur|terstruktur|sistematis|profesional} dan {hasilnya|outcomenya|kualitasnya|mutunya|produknya} {memuaskan|berkualitas|excellent|sempurna|optimal}. {Komunikasi|Koordinasi|Interaksi|Hubungan kerja|Kolaborasi} dengan tim teknis juga {sangat baik|lancar|profesional|responsif|cepat tanggap}. {Harga|Biaya|Tarif|Price|Rate}nya juga {sangat kompetitif|bersaing|reasonable|terjangkau|ekonomis}."
+response = "{Terima kasih|Kami berterima kasih|Apresiasi tinggi|Penghargaan|Syukron} atas {kepercayaan|dukungan|keyakinan|penilaian|testimoni} Anda! Kami {berkomitmen|bertekad|berdedikasi|berusaha|berupaya} untuk selalu {memberikan|menghadirkan|menyajikan|mempersembahkan|menyediakan} {hasil|outcome|kualitas|produk} {terbaik|optimal|maksimal|superior|excellent} untuk setiap {proyek|pekerjaan|konstruksi|pembangunan}."
+rating = 5
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar6.png"
+name = "{Eko|Rio|Galih|Faisal|Yanto|Benny|Toni|Deni|Rizal|Wawan|Indra|Arief|Hafiz|Ridwan|Lukman}"
+message = "{Kualitas|Mutu|Standar} pagar panel dan {layanan|service|pelayanan|pengerjaan|penanganan} dari betonmixmurah.com {selalu konsisten|sangat terjaga|terjamin|reliable|dapat diandalkan}. {Tim teknisnya|Para pekerjanya|Stafnya|Personilnya|Timnya} {sangat kooperatif|profesional|berpengalaman|terampil|ahli} dan {cepat tanggap|responsif|sigap|proaktif|solutif} dalam {menangani|mengerjakan|menyelesaikan|mengeksekusi|mengatasi} setiap {situasi|kondisi|keadaan|masalah|tantangan}. {Sangat merekomendasikan|Pasti merekomendasikan|Merekomendasikan sekali|Tidak ragu merekomendasikan|Siap merekomendasikan} untuk {proyek|pekerjaan|konstruksi|pembangunan} {skala besar|skala kecil|segala ukuran|berbagai skala|semua jenis proyek}."
+response = "{Terima kasih|Apresiasi tinggi|Kami berterima kasih|Penghargaan|Syukron} atas {rekomendasinya|referensinya|testimoninya|dukungannya|kepercayaannya}! Kami akan {terus|selalu|senantiasa|konsisten} {menjaga|mempertahankan|meningkatkan|mengembangkan|mengoptimalkan} {kualitas|mutu|standar} dan {layanan|service|pengerjaan} kami untuk {kepuasan|kenyamanan|kebahagiaan} {pelanggan|client|customer|konsumen|mitra}."
+rating = 5
+
+[[params.tabelItems]]
+  name = "Pagar Panel Polos"
+  price = "170.000 /m"
+[[params.tabelItems]]
+  name = "Pagar Panel Motif"
+  price = "200.000 /m"
+[[params.tabelItems]]
+  name = "Pagar Panel Polos + Tiang"
+  price = "250.000 /m"
+[[params.tabelItems]]
+  name = "Pagar Panel Motif + Tiang"
+  price = "300.000 /m"
+[[params.tabelItems]]
+  name = "Sewa Truk Crane 10 Ton"
+  price = "4.500.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Truk Crane 20 Ton"
+  price = "6.500.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Truk Crane 30 Ton"
+  price = "8.500.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Truk Crane 50 Ton"
+  price = "12.000.000 /hari"
+
+[params.appliList]
+"Pagar Panel Polos" = "cocok untuk pembatas properti sederhana dan ekonomis"
+"Pagar Panel Motif" = "ideal untuk tampilan estetis dengan kekuatan yang sama"
+"Pagar Panel Polos + Tiang" = "pilihan tepat untuk pagar praktis yang tahan lama"
+"Pagar Panel Motif + Tiang" = "kombinasi sempurna untuk estetika dan fungsi"
+
+[params.kegunaanList]
+"Sewa Truk Crane 10 Ton" = "ideal untuk pengangkatan alat berat di area sempit"
+"Sewa Truk Crane 20 Ton" = "efektif untuk konstruksi dengan peralatan medium"
+"Sewa Truk Crane 30 Ton" = "digunakan pada proyek konstruksi skala besar"
+"Sewa Truk Crane 50 Ton" = "memenuhi kebutuhan industri berat dan konstruksi besar"
+
+  # Menu Section
+  [[params.menu_items]]
+    title = "Beranda"
+    url = "/"
+  [[params.menu_items]]
+    title = "Kontak"
+    url = "/contact/"
+
+  [[params.menu_items]]
+    title = "Pagar Panel"
+    url = "/pagar/"
+
+  [[params.menu_items]]
+    title = "Truk Crane"
+    url = "/crane/"
+
+[params.header]
+   title = "Supplier Pagar Panel Beton dan Sewa Truk Crane Terbaik | "
+   highlight = "BetonMIxMurah.com"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 100
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML", "AMP"]
+
+[outputFormats]
+  [outputFormats.AMP]
+    mediaType = "text/html"
+    baseName = "amp/index"
+    path = ""
+    isPlainText = false
+    permalinkable = true
+    rel = "amphtml"

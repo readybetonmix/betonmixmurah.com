@@ -1,0 +1,51 @@
+{{ with .Get "table" }}
+  {{ if eq . "tablePagarBeton" }}
+    <table>
+      <thead>
+        <tr>
+          <th>Jenis</th>
+          <th>Harga (Rp)</th>
+          <th>Aplikasi</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $.Site.Params.tabelItems }}
+          {{ if (in .name "Pagar Panel") }}
+            <tr>
+              <td>{{ .name }}</td>
+              <td>{{ .price }}</td>
+              <td>{{ index $.Site.Params.appliList .name }}</td>
+            </tr>
+          {{ end }}
+        {{ end }}
+      </tbody>
+    </table>
+  {{ else if eq . "tableTrukCrane" }}
+    <table>
+      <thead>
+        <tr>
+          <th>Jasa</th>
+          <th>Biaya (Rp)</th>
+          <th>Kegunaan Utama</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $.Site.Params.tabelItems }}
+          {{ if (in .name "Sewa Truk Crane") }}
+            <tr>
+              <td>{{ .name }}</td>
+              <td>{{ .price }}</td>
+              <td>{{ index $.Site.Params.kegunaanList .name }}</td>
+            </tr>
+          {{ end }}
+        {{ end }}
+      </tbody>
+    </table>
+  {{ else }}
+    <p>Invalid table selection.</p>
+  {{ end }}
+{{ end }}
+
+<p class="price-info">
+  Harga tertera belum termasuk biaya mobilisasi dengan minimal tertentu. Harga sewaktu-waktu bisa berubah, hubungi kami untuk informasi harga terbaru.
+</p>
