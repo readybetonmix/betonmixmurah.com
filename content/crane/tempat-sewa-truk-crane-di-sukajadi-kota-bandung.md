@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Sukajadi Kota Bandung"
-date: "2023-12-24"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Sukajadi Kota Bandung
+date: '2023-12-24'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi besar di wilayah Sukajadi Kota Bandung? Jika ya, maka Anda pasti memahami betapa pentingnya crane dalam mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan hanya alat berat, tetapi juga solusi untuk beraneka tantangan yang ditemui dalam konstruksi modern.

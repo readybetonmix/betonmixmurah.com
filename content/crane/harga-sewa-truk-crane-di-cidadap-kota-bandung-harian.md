@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cidadap Kota Bandung Harian"
-date: "2023-09-13"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cidadap Kota Bandung Harian
+date: '2023-09-13'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi besar di daerah Cidadap Kota Bandung? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan hanya alat berat, tetapi juga solusi untuk beraneka tantangan yang dihadapi dalam konstruksi masa kini.

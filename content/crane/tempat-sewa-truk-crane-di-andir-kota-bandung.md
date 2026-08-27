@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Andir Kota Bandung"
-date: "2023-03-30"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Andir Kota Bandung
+date: '2023-03-30'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi besar di area Andir Kota Bandung? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan menjamin hasil yang maksimal. Crane bukan hanya perangkat berat, tetapi juga solusi untuk berbagai tantangan yang dihadapi dalam konstruksi masa kini.

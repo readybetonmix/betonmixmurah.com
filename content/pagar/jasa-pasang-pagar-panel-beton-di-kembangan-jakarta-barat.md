@@ -1,7 +1,8 @@
 ---
-title: "Jasa Pasang Pagar Panel Beton di Kembangan Jakarta Barat"
-date: "2023-10-30"
-categories: "[pagar]"
+title: Jasa Pasang Pagar Panel Beton di Kembangan Jakarta Barat
+date: '2023-10-30'
+categories: '[pagar]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Tahukah Anda bahwa pagar beton saat ini menjadi salah satu jawaban yang paling disukai untuk meningkatkan safety dan keindahan properti? Di era modern ini, banyak pemilik properti di Kembangan Jakarta Barat yang memilih pagar panel beton karena gabungan kekuatan, daya tahan, dan desain yang dapat diubah.  

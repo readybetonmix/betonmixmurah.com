@@ -1,7 +1,8 @@
 ---
-title: "Produsen Pagar Panel Beton di Johar Baru Jakarta Pusat"
-date: "2023-05-17"
-categories: "[pagar]"
+title: Produsen Pagar Panel Beton di Johar Baru Jakarta Pusat
+date: '2023-05-17'
+categories: '[pagar]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Tahukah Anda bahwa pagar beton kini menjadi salah satu solusi favorit untuk memperbaiki safety dan keindahan properti? Saat ini, banyak pengelola properti di Johar Baru Jakarta Pusat yang menggunakan pagar beton karena kombinasi antara ketahanan, daya tahan, dan desain yang dapat diubah.  

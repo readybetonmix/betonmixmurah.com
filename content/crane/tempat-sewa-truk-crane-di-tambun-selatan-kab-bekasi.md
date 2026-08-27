@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Tambun Selatan Kab Bekasi"
-date: "2023-11-29"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Tambun Selatan Kab Bekasi
+date: '2023-11-29'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di beragam sektor, mulai dari gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu perangkat berat yang memiliki peran vital dalam dunia konstruksi adalah crane. Alat ini mengizinkan pengangkatan material berat dengan akurasi, efisiensi, dan tingkat keamanan yang tinggi.

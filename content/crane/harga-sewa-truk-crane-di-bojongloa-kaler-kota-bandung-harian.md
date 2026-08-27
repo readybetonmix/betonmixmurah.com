@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Bojongloa Kaler Kota Bandung Harian"
-date: "2023-08-07"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Bojongloa Kaler Kota Bandung Harian
+date: '2023-08-07'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan fondasi utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu perangkat berat yang sangat penting dalam dunia konstruksi adalah crane. Alat ini mengizinkan pengangkatan material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

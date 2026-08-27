@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cijeruk Kab Bogor"
-date: "2023-11-24"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cijeruk Kab Bogor
+date: '2023-11-24'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi besar di wilayah Cijeruk Kab Bogor? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane lebih dari sekadar alat berat; ia adalah jawaban untuk berbagai tantangan dalam konstruksi modern.

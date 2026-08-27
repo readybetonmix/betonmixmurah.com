@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Pinang Kota Tangerang Harian"
-date: "2023-03-10"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Pinang Kota Tangerang Harian
+date: '2023-03-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi penentu keberhasilan suatu proyek. Sebagai alat berat utama, crane berfungsi sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang memerlukan level presisi tinggi dan efisiensi waktu akan sulit dilakukan.

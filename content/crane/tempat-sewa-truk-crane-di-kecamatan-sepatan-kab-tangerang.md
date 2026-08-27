@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Sepatan Kab Tangerang"
-date: "2023-04-25"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Sepatan Kab Tangerang
+date: '2023-04-25'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, keberhasilan sebuah proyek sering kali bergantung pada perangkat yang digunakan. Crane, yang merupakan perangkat berat andalan, memegang peranan penting dalam pengangkatan material berat, termasuk beton, baja, dan komponen besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang handal.

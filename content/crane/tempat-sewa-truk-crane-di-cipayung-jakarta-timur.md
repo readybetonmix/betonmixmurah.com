@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cipayung Jakarta Timur"
-date: "2023-09-08"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cipayung Jakarta Timur
+date: '2023-09-08'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi besar di daerah Cipayung Jakarta Timur? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan menjamin hasil yang maksimal. Crane lebih dari sekadar alat berat; ia adalah jawaban untuk beraneka tantangan dalam konstruksi masa kini.

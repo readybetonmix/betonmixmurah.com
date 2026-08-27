@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cikarang Barat Kab Bekasi"
-date: "2023-06-07"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cikarang Barat Kab Bekasi
+date: '2023-06-07'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di berbagai sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane adalah salah satu perangkat berat yang memegang penting dalam industri konstruksi. Perangkat ini mengizinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan proteksi yang tinggi.

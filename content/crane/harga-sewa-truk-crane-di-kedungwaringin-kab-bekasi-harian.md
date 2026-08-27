@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kedungwaringin Kab Bekasi Harian"
-date: "2023-03-26"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kedungwaringin Kab Bekasi Harian
+date: '2023-03-26'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi besar di daerah Kedungwaringin Kab Bekasi? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk beraneka tantangan konstruksi masa kini.

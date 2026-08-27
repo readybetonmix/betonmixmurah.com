@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cibinong Kab Bogor"
-date: "2023-02-02"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cibinong Kab Bogor
+date: '2023-02-02'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali ditentukan pada perangkat yang digunakan. Crane, yang adalah perangkat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan material besar lainnya. Tanpa crane yang dapat diandalkan, pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

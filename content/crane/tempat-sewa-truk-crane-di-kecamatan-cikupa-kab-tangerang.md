@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Cikupa Kab Tangerang"
-date: "2023-03-30"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Cikupa Kab Tangerang
+date: '2023-03-30'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali bergantung pada perangkat yang digunakan. Crane, sebagai alat berat andalan, merupakan tulang punggung pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang dapat diandalkan.

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Taman Sari Jakarta Barat Harian"
-date: "2023-09-06"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Taman Sari Jakarta Barat Harian
+date: '2023-09-06'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali bergantung pada perangkat yang digunakan. Crane, yang merupakan perangkat berat andalan, memegang peranan penting dalam penanganan material berat, termasuk beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang memerlukan level presisi tinggi dan efisiensi waktu akan menjadi tantangan.

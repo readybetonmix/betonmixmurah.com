@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Tapos Depok"
-date: "2023-09-21"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Tapos Depok
+date: '2023-09-21'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan dasar utama pembangunan di berbagai sektor, seperti gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang memiliki peran penting dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan proteksi yang tinggi.

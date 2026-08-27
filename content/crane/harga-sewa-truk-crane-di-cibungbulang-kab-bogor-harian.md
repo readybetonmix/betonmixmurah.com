@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cibungbulang Kab Bogor Harian"
-date: "2023-06-19"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cibungbulang Kab Bogor Harian
+date: '2023-06-19'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi penentu keberhasilan suatu proyek. Sebagai alat berat utama, crane berperan sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan material besar lainnya. Tanpa crane yang handal, pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

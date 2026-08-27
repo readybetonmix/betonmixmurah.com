@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cabangbungin Kab Bekasi Harian"
-date: "2023-07-05"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cabangbungin Kab Bekasi Harian
+date: '2023-07-05'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan beragam sektor, mulai dari gedung perkantoran hingga infrastruktur jalan raya. Crane merupakan salah satu perangkat berat yang memegang penting dalam industri konstruksi. Alat ini memungkinkan untuk mengangkat material berat dengan presisi, efisiensi, dan standar keamanan yang tinggi.

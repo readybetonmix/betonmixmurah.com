@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Tenjolaya Kab Bogor"
-date: "2023-03-15"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Tenjolaya Kab Bogor
+date: '2023-03-15'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan beragam sektor, termasuk gedung perkantoran hingga infrastruktur jalan raya. Crane adalah salah satu perangkat berat yang memegang penting dalam industri konstruksi. Alat ini memungkinkan untuk mengangkat material berat dengan akurasi, efisiensi, dan standar keamanan yang tinggi.

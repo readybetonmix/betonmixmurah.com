@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Serpong Tangerang Selatan Harian"
-date: "2023-09-08"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Serpong Tangerang Selatan Harian
+date: '2023-09-08'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi besar di daerah Serpong Tangerang Selatan? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan hanya alat berat, tetapi juga jawaban untuk berbagai tantangan yang dihadapi dalam konstruksi masa kini.

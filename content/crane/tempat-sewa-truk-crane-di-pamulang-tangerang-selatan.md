@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Pamulang Tangerang Selatan"
-date: "2023-09-22"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Pamulang Tangerang Selatan
+date: '2023-09-22'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi besar di area Pamulang Tangerang Selatan? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan hanya alat berat; ia adalah jawaban untuk beraneka tantangan dalam konstruksi masa kini.

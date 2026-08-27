@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Arcamanik Kota Bandung"
-date: "2023-02-22"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Arcamanik Kota Bandung
+date: '2023-02-22'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi faktor penentu keberhasilan suatu proyek. Crane, yang adalah perangkat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan komponen besar lainnya. Tugas yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang dapat diandalkan.

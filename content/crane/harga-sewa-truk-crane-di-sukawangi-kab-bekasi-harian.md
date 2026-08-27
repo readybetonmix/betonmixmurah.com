@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Sukawangi Kab Bekasi Harian"
-date: "2023-12-24"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Sukawangi Kab Bekasi Harian
+date: '2023-12-24'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah tulang punggung pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Crane adalah salah satu perangkat berat yang memegang penting dalam industri konstruksi. Alat ini mengizinkan untuk mengangkat material berat dengan akurasi, efisiensi, dan tingkat keamanan yang tinggi.

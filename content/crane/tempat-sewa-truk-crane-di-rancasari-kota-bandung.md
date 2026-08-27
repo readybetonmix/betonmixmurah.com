@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Rancasari Kota Bandung"
-date: "2023-08-12"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Rancasari Kota Bandung
+date: '2023-08-12'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan pilar penting dalam pembangunan beragam sektor, mulai dari gedung perkantoran dan infrastruktur jalan raya. Salah satu perangkat berat yang sangat krusial dalam dunia konstruksi adalah crane. Alat ini mengizinkan untuk mengangkat material berat dengan akurasi, efisiensi, dan tingkat keamanan yang tinggi.

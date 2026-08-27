@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Karangtengah Kota Tangerang"
-date: "2023-01-12"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Karangtengah Kota Tangerang
+date: '2023-01-12'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi besar di daerah Karangtengah Kota Tangerang? Jika jawabannya ya, Anda tentu memahami seberapa penting crane dalam mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk beraneka tantangan konstruksi masa kini.

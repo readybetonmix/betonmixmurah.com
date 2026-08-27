@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Bojongloa Kaler Kota Bandung"
-date: "2023-02-22"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Bojongloa Kaler Kota Bandung
+date: '2023-02-22'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi penentu keberhasilan sebuah proyek. Crane, yang merupakan alat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan komponen besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang memerlukan tingkat presisi tinggi dan efisiensi waktu akan sulit dilakukan.

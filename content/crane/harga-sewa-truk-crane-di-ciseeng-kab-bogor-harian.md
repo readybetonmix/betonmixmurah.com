@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Ciseeng Kab Bogor Harian"
-date: "2023-05-10"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Ciseeng Kab Bogor Harian
+date: '2023-05-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi besar di area Ciseeng Kab Bogor? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk beraneka tantangan konstruksi masa kini.

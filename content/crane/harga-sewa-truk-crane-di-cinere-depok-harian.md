@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cinere Depok Harian"
-date: "2023-04-06"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cinere Depok Harian
+date: '2023-04-06'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah inti utama pembangunan di berbagai sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane adalah salah satu perangkat berat yang berperan penting dalam industri konstruksi. Perangkat ini mengizinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan keamanan yang tinggi.

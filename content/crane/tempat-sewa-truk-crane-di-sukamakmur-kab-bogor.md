@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Sukamakmur Kab Bogor"
-date: "2023-10-07"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Sukamakmur Kab Bogor
+date: '2023-10-07'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan pilar penting dalam pembangunan beragam sektor, termasuk gedung perkantoran dan infrastruktur jalan raya. Crane merupakan salah satu alat berat yang memegang penting dalam industri konstruksi. Alat ini mengizinkan untuk mengangkat material berat dengan presisi, efisiensi, dan standar keamanan yang tinggi.

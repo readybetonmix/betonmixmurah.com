@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Sukadiri Kab Tangerang Harian"
-date: "2023-04-06"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Sukadiri Kab Tangerang Harian
+date: '2023-04-06'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi faktor penentu keberhasilan sebuah proyek. Crane, sebagai alat berat andalan, merupakan tulang punggung penanganan material berat, seperti beton, baja, dan material besar lainnya. Pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang handal.

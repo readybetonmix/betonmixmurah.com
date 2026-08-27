@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Jatinegara Jakarta Timur"
-date: "2023-03-10"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Jatinegara Jakarta Timur
+date: '2023-03-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan pilar penting dalam pembangunan berbagai sektor, termasuk gedung perkantoran hingga infrastruktur jalan raya. Salah satu perangkat berat yang sangat krusial dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan proteksi yang tinggi.

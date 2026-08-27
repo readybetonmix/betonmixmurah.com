@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Cikupa Kab Tangerang Harian"
-date: "2023-11-05"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Cikupa Kab Tangerang Harian
+date: '2023-11-05'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi faktor penentu keberhasilan suatu proyek. Crane, yang merupakan perangkat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang butuh tingkat presisi tinggi dan efisiensi waktu akan menjadi tantangan.

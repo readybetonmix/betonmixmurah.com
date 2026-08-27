@@ -1,7 +1,8 @@
 ---
-title: "Jasa Pasang Pagar Panel Beton di Jakarta Barat"
-date: "2023-06-20"
-categories: "[pagar]"
+title: Jasa Pasang Pagar Panel Beton di Jakarta Barat
+date: '2023-06-20'
+categories: '[pagar]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Tahukah Anda bahwa pagar beton kini menjadi salah satu jawaban favorit untuk meningkatkan safety dan keindahan properti? Di era modern ini, banyak pemilik properti di Jakarta Barat yang memilih pagar panel beton karena kombinasi kekuatan, daya tahan, dan tampilan yang dapat disesuaikan.  

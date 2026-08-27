@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Tanjung Priok Jakarta Utara Harian"
-date: "2023-04-17"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Tanjung Priok Jakarta Utara Harian
+date: '2023-04-17'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada perangkat yang digunakan. Crane, yang adalah alat berat andalan, memegang peranan penting dalam pengangkatan material berat, termasuk beton, baja, dan komponen besar lainnya. Tanpa crane yang dapat diandalkan, tugas yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan.

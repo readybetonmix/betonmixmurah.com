@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Lengkong Kota Bandung"
-date: "2023-08-09"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Lengkong Kota Bandung
+date: '2023-08-09'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada alat yang digunakan. Sebagai perangkat berat utama, crane berperan sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan material besar lainnya. Tanpa crane yang dapat diandalkan, pekerjaan yang membutuhkan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

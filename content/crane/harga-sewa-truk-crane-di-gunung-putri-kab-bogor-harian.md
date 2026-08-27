@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Gunung Putri Kab Bogor Harian"
-date: "2023-05-16"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Gunung Putri Kab Bogor Harian
+date: '2023-05-16'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, keberhasilan sebuah proyek sering kali bergantung pada alat yang digunakan. Sebagai perangkat berat utama, crane berfungsi sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang butuh level presisi tinggi dan efisiensi waktu akan sulit dilakukan.

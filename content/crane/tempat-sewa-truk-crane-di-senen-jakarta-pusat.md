@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Senen Jakarta Pusat"
-date: "2023-08-24"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Senen Jakarta Pusat
+date: '2023-08-24'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan fondasi utama pembangunan di beragam sektor, seperti gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang sangat penting dalam dunia konstruksi adalah crane. Alat ini memungkinkan pengangkatan material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

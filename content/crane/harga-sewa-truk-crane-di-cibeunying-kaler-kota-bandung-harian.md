@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cibeunying Kaler Kota Bandung Harian"
-date: "2023-01-21"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cibeunying Kaler Kota Bandung Harian
+date: '2023-01-21'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada alat yang digunakan. Crane, sebagai perangkat berat andalan, menjadi tulang punggung pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa crane yang handal, tugas yang memerlukan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

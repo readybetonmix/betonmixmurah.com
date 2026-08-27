@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Gedebage Kota Bandung Harian"
-date: "2023-03-10"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Gedebage Kota Bandung Harian
+date: '2023-03-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi faktor penentu keberhasilan suatu proyek. Sebagai alat berat utama, crane berfungsi sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan material besar lainnya. Tanpa crane yang handal, pekerjaan yang membutuhkan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

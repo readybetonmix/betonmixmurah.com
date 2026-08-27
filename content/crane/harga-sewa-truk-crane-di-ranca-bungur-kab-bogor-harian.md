@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Ranca Bungur Kab Bogor Harian"
-date: "2023-01-09"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Ranca Bungur Kab Bogor Harian
+date: '2023-01-09'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi besar di wilayah Ranca Bungur Kab Bogor? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepat pekerjaan dan memastikan hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi modern.

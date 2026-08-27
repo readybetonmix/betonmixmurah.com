@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Jambe Kab Tangerang Harian"
-date: "2023-07-16"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Jambe Kab Tangerang Harian
+date: '2023-07-16'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada perangkat yang digunakan. Sebagai alat berat utama, crane berperan sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan material besar lainnya. Tugas yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang handal.

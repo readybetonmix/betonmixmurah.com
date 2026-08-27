@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cileungsi Kab Bogor"
-date: "2023-02-02"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cileungsi Kab Bogor
+date: '2023-02-02'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi besar di daerah Cileungsi Kab Bogor? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi modern.

@@ -1,7 +1,8 @@
 ---
-title: "Produsen Pagar Panel Beton di Jakarta Utara"
-date: "2023-04-05"
-categories: "[pagar]"
+title: Produsen Pagar Panel Beton di Jakarta Utara
+date: '2023-04-05'
+categories: '[pagar]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Tahukah Anda bahwa pagar panel beton kini menjadi salah satu jawaban favorit untuk memperbaiki safety dan keindahan properti? Saat ini, banyak pemilik properti di Jakarta Utara yang memilih pagar beton karena gabungan antara ketahanan, daya tahan, dan tampilan yang dapat diubah.  

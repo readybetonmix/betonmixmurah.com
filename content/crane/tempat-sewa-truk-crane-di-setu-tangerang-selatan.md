@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Setu Tangerang Selatan"
-date: "2023-08-28"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Setu Tangerang Selatan
+date: '2023-08-28'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi besar di area Setu Tangerang Selatan? Jika ya, maka Anda pasti memahami betapa pentingnya crane dalam mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan hanya alat berat; ia adalah jawaban untuk beraneka tantangan dalam konstruksi modern.

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Dramaga Kab Bogor Harian"
-date: "2023-11-25"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Dramaga Kab Bogor Harian
+date: '2023-11-25'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi besar di daerah Dramaga Kab Bogor? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan hanya perangkat berat, tetapi juga solusi untuk berbagai tantangan yang dihadapi dalam konstruksi masa kini.

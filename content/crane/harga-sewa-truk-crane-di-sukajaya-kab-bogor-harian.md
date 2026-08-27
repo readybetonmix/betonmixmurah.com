@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Sukajaya Kab Bogor Harian"
-date: "2023-01-22"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Sukajaya Kab Bogor Harian
+date: '2023-01-22'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi signifikan di daerah Sukajaya Kab Bogor? Jika demikian, Anda pasti menyadari betapa pentingnya crane untuk mempercepat pekerjaan dan menjamin hasil yang maksimal. Crane bukan hanya alat berat; ia adalah jawaban untuk berbagai tantangan dalam konstruksi masa kini.

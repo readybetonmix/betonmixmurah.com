@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Bekasi Utara Kota Bekasi Harian"
-date: "2023-11-20"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Bekasi Utara Kota Bekasi Harian
+date: '2023-11-20'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi signifikan di daerah Bekasi Utara Kota Bekasi? Jika jawabannya ya, Anda tentu memahami seberapa penting crane dalam mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane lebih dari sekadar alat berat; ia adalah solusi untuk berbagai tantangan dalam konstruksi modern.

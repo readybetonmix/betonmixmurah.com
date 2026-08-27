@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Pebayuran Kab Bekasi"
-date: "2023-10-17"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Pebayuran Kab Bekasi
+date: '2023-10-17'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah dasar utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang sangat krusial dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan proteksi yang tinggi.

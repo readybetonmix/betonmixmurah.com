@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Larangan Kota Tangerang"
-date: "2023-01-31"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Larangan Kota Tangerang
+date: '2023-01-31'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan berbagai sektor, mulai dari gedung perkantoran hingga infrastruktur jalan raya. Salah satu perangkat berat yang memegang peran vital dalam dunia konstruksi adalah crane. Alat ini mengizinkan untuk mengangkat material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

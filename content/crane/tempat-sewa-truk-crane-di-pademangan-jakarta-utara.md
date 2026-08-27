@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Pademangan Jakarta Utara"
-date: "2023-01-17"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Pademangan Jakarta Utara
+date: '2023-01-17'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi besar di wilayah Pademangan Jakarta Utara? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepat pekerjaan dan menjamin hasil yang maksimal. Crane bukan hanya alat berat; ia adalah jawaban untuk beraneka tantangan dalam konstruksi masa kini.

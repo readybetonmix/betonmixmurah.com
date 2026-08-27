@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Serang Baru Kab Bekasi Harian"
-date: "2023-04-28"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Serang Baru Kab Bekasi Harian
+date: '2023-04-28'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi faktor penentu keberhasilan sebuah proyek. Sebagai perangkat berat utama, crane berperan sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang memerlukan level presisi tinggi dan efisiensi waktu akan menjadi tantangan.

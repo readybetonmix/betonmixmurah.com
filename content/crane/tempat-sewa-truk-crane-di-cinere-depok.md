@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cinere Depok"
-date: "2023-03-10"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cinere Depok
+date: '2023-03-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali ditentukan pada perangkat yang digunakan. Sebagai alat berat utama, crane berfungsi sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa adanya crane yang dapat diandalkan, tugas yang butuh level presisi tinggi dan efisiensi waktu akan menjadi tantangan.

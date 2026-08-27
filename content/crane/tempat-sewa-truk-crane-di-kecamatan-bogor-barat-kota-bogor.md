@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Bogor Barat Kota Bogor"
-date: "2023-04-03"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Bogor Barat Kota Bogor
+date: '2023-04-03'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi faktor penentu keberhasilan sebuah proyek. Crane, yang adalah perangkat berat andalan, memegang peranan penting dalam pengangkatan material berat, termasuk beton, baja, dan komponen besar lainnya. Tanpa adanya crane yang dapat diandalkan, tugas yang butuh level presisi tinggi dan efisiensi waktu akan menjadi tantangan.

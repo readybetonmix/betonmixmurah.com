@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cibarusah Kab Bekasi"
-date: "2023-05-10"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cibarusah Kab Bekasi
+date: '2023-05-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi faktor penentu keberhasilan suatu proyek. Crane, yang adalah perangkat berat andalan, memegang peranan penting dalam pengangkatan material berat, termasuk beton, baja, dan komponen besar lainnya. Tugas yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang handal.

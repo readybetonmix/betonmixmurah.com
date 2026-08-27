@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kota Bandung Harian"
-date: "2023-10-23"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kota Bandung Harian
+date: '2023-10-23'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi besar di area Kota Bandung? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepatkan pekerjaan dan menjamin hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi masa kini.

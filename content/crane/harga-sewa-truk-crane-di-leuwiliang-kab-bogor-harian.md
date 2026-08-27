@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Leuwiliang Kab Bogor Harian"
-date: "2023-07-01"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Leuwiliang Kab Bogor Harian
+date: '2023-07-01'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada alat yang digunakan. Crane, yang merupakan alat berat andalan, memegang peranan penting dalam penanganan material berat, termasuk beton, baja, dan material besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang dapat diandalkan.

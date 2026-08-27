@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cisarua Kab Bogor Harian"
-date: "2023-12-03"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cisarua Kab Bogor Harian
+date: '2023-12-03'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan pilar penting pembangunan di berbagai sektor, termasuk gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu alat berat yang sangat penting dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan proteksi yang tinggi.

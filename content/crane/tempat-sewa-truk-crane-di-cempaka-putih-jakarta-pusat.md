@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cempaka Putih Jakarta Pusat"
-date: "2023-06-16"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cempaka Putih Jakarta Pusat
+date: '2023-06-16'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi signifikan di daerah Cempaka Putih Jakarta Pusat? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk beraneka tantangan konstruksi modern.

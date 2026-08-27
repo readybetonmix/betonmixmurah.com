@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Gunung Sindur Kab Bogor Harian"
-date: "2023-10-11"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Gunung Sindur Kab Bogor Harian
+date: '2023-10-11'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah tulang punggung pembangunan di beragam sektor, mulai dari gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane adalah salah satu perangkat berat yang memegang penting dalam industri konstruksi. Alat ini memungkinkan untuk mengangkat material berat dengan akurasi, efisiensi, dan standar keamanan yang tinggi.

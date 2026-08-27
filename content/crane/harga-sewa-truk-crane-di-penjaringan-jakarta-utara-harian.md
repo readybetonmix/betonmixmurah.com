@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Penjaringan Jakarta Utara Harian"
-date: "2023-04-27"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Penjaringan Jakarta Utara Harian
+date: '2023-04-27'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di berbagai sektor, seperti gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang memiliki peran penting dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan proteksi yang tinggi.

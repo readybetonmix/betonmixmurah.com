@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Bantar Gebang Kota Bekasi"
-date: "2023-12-20"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Bantar Gebang Kota Bekasi
+date: '2023-12-20'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali bergantung pada alat yang digunakan. Crane, yang adalah alat berat andalan, memegang peranan penting dalam penanganan material berat, termasuk beton, baja, dan komponen besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang butuh tingkat presisi tinggi dan efisiensi waktu akan menjadi tantangan.

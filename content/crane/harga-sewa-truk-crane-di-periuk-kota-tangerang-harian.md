@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Periuk Kota Tangerang Harian"
-date: "2023-04-12"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Periuk Kota Tangerang Harian
+date: '2023-04-12'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di wilayah Periuk Kota Tangerang? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane bukan sekadar alat berat, melainkan solusi untuk berbagai tantangan konstruksi modern.

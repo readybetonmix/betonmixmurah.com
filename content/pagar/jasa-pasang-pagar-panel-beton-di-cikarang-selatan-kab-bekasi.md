@@ -1,7 +1,8 @@
 ---
-title: "Jasa Pasang Pagar Panel Beton di Cikarang Selatan Kab Bekasi"
-date: "2023-05-23"
-categories: "[pagar]"
+title: Jasa Pasang Pagar Panel Beton di Cikarang Selatan Kab Bekasi
+date: '2023-05-23'
+categories: '[pagar]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Apakah Anda tahu bahwa pagar panel beton sekarang menjadi salah satu pilihan utama untuk meningkatkan keamanan dan keindahan properti? Saat ini, banyak pemilik properti di Cikarang Selatan Kab Bekasi yang menggunakan pagar beton karena gabungan antara kekuatan, daya tahan, dan desain yang fleksibel.  

@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Kelapa Dua Kab Tangerang"
-date: "2023-08-24"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Kelapa Dua Kab Tangerang
+date: '2023-08-24'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi besar di wilayah Kecamatan Kelapa Dua Kab Tangerang? Jika demikian, Anda pasti menyadari betapa pentingnya crane untuk mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan sekadar alat berat, melainkan solusi untuk beraneka tantangan konstruksi modern.

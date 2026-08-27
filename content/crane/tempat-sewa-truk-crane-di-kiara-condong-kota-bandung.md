@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kiara Condong Kota Bandung"
-date: "2023-04-16"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kiara Condong Kota Bandung
+date: '2023-04-16'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi besar di daerah Kiara Condong Kota Bandung? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepat pekerjaan dan memastikan hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk beraneka tantangan konstruksi modern.

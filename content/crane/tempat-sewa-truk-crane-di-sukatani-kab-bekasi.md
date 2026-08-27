@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Sukatani Kab Bekasi"
-date: "2023-10-27"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Sukatani Kab Bekasi
+date: '2023-10-27'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi besar di wilayah Sukatani Kab Bekasi? Jika ya, maka Anda pasti memahami betapa pentingnya crane dalam mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi modern.

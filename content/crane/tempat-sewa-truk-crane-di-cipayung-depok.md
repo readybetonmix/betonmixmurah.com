@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cipayung Depok"
-date: "2023-04-26"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cipayung Depok
+date: '2023-04-26'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada perangkat yang digunakan. Crane, sebagai alat berat andalan, merupakan tulang punggung penanganan material berat, seperti beton, baja, dan material besar lainnya. Tanpa crane yang handal, tugas yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan.

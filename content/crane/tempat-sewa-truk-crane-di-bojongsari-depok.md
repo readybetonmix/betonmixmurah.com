@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Bojongsari Depok"
-date: "2023-09-20"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Bojongsari Depok
+date: '2023-09-20'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, keberhasilan sebuah proyek sering kali bergantung pada perangkat yang digunakan. Crane, yang merupakan alat berat andalan, memegang peranan penting dalam penanganan material berat, termasuk beton, baja, dan komponen besar lainnya. Tanpa adanya crane yang dapat diandalkan, tugas yang memerlukan level presisi tinggi dan efisiensi waktu akan sulit dilakukan.

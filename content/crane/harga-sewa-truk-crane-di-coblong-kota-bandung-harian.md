@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Coblong Kota Bandung Harian"
-date: "2023-02-04"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Coblong Kota Bandung Harian
+date: '2023-02-04'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi besar di wilayah Coblong Kota Bandung? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan hanya alat berat; ia adalah solusi untuk beraneka tantangan dalam konstruksi modern.

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cariu Kab Bogor Harian"
-date: "2023-12-24"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cariu Kab Bogor Harian
+date: '2023-12-24'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di beragam sektor, mulai dari gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane adalah salah satu alat berat yang berperan penting dalam industri konstruksi. Perangkat ini mengizinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan proteksi yang tinggi.

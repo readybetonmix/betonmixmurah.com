@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Gedebage Kota Bandung"
-date: "2023-09-12"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Gedebage Kota Bandung
+date: '2023-09-12'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi signifikan di daerah Gedebage Kota Bandung? Jika demikian, Anda pasti menyadari betapa pentingnya crane untuk mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane lebih dari sekadar alat berat; ia adalah solusi untuk berbagai tantangan dalam konstruksi modern.

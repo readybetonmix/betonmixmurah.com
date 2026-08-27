@@ -1,7 +1,8 @@
 ---
-title: "Produsen Pagar Panel Beton di Senen Jakarta Pusat"
-date: "2023-08-02"
-categories: "[pagar]"
+title: Produsen Pagar Panel Beton di Senen Jakarta Pusat
+date: '2023-08-02'
+categories: '[pagar]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Ketika mendesain properti, aspek keamanan harus selalu diutamakan. Namun, mengapa hanya memusatkan perhatian pada safety jika Anda juga bisa mendapatkan estetika dalam satu solusi? **Pagar panel beton** adalah jawaban yang ideal untuk kebutuhan tersebut. Produk ini menawarkan perlindungan maksimal sekaligus desain yang menarik dan indah.  

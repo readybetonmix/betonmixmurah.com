@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Menteng Jakarta Pusat"
-date: "2023-12-26"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Menteng Jakarta Pusat
+date: '2023-12-26'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan beragam sektor, mulai dari gedung perkantoran hingga infrastruktur jalan raya. Salah satu perangkat berat yang memiliki peran krusial dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan proteksi yang tinggi.

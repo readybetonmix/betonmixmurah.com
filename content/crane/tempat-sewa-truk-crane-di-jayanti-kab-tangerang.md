@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Jayanti Kab Tangerang"
-date: "2023-11-21"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Jayanti Kab Tangerang
+date: '2023-11-21'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan beragam sektor, mulai dari gedung perkantoran dan infrastruktur jalan raya. Salah satu perangkat berat yang sangat penting dalam dunia konstruksi adalah crane. Alat ini memungkinkan pengangkatan material berat dengan presisi, efisiensi, dan keamanan yang tinggi.

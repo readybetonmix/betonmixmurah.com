@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Makasar Jakarta Timur"
-date: "2023-05-18"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Makasar Jakarta Timur
+date: '2023-05-18'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi tulang punggung pembangunan di berbagai sektor, termasuk gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu perangkat berat yang sangat krusial dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan proteksi yang tinggi.

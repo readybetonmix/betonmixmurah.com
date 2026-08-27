@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Rawalumbu Kota Bekasi Harian"
-date: "2023-05-31"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Rawalumbu Kota Bekasi Harian
+date: '2023-05-31'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah dasar utama pembangunan di beragam sektor, seperti gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang sangat krusial dalam dunia konstruksi adalah crane. Alat ini memungkinkan untuk mengangkat material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

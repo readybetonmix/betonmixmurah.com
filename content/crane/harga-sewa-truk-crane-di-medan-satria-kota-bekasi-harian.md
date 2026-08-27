@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Medan Satria Kota Bekasi Harian"
-date: "2023-10-11"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Medan Satria Kota Bekasi Harian
+date: '2023-10-11'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi besar di daerah Medan Satria Kota Bekasi? Jika ya, maka Anda pasti memahami betapa pentingnya crane dalam mempercepatkan pekerjaan dan menjamin hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk beraneka tantangan konstruksi masa kini.

@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Pancoran Mas Depok"
-date: "2023-09-05"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Pancoran Mas Depok
+date: '2023-09-05'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane adalah salah satu perangkat berat yang memegang penting dalam industri konstruksi. Alat ini memungkinkan pengangkatan material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

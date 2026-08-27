@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Ciputat Timur Tangerang Selatan"
-date: "2023-11-06"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Ciputat Timur Tangerang Selatan
+date: '2023-11-06'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan fondasi utama pembangunan di beragam sektor, mulai dari gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu perangkat berat yang sangat penting dalam dunia konstruksi adalah crane. Perangkat ini mengizinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan keamanan yang tinggi.

@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Caringin Kab Bogor"
-date: "2023-08-12"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Caringin Kab Bogor
+date: '2023-08-12'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi signifikan di daerah Caringin Kab Bogor? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi masa kini.

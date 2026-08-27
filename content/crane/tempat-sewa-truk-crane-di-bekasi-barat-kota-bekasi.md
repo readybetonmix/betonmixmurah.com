@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Bekasi Barat Kota Bekasi"
-date: "2023-09-11"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Bekasi Barat Kota Bekasi
+date: '2023-09-11'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di wilayah Bekasi Barat Kota Bekasi? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepat pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi masa kini.

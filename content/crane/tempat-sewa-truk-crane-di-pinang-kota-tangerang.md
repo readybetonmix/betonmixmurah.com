@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Pinang Kota Tangerang"
-date: "2023-09-05"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Pinang Kota Tangerang
+date: '2023-09-05'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali ditentukan pada perangkat yang digunakan. Sebagai perangkat berat utama, crane berfungsi sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan material besar lainnya. Tugas yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang handal.

@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kab Cianjur"
-date: "2023-12-24"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kab Cianjur
+date: '2023-12-24'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, keberhasilan sebuah proyek sering kali bergantung pada alat yang digunakan. Sebagai alat berat utama, crane berperan sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan material besar lainnya. Tanpa crane yang dapat diandalkan, tugas yang membutuhkan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

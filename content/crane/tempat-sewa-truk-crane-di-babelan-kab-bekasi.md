@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Babelan Kab Bekasi"
-date: "2023-08-25"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Babelan Kab Bekasi
+date: '2023-08-25'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan pilar penting dalam pembangunan beragam sektor, mulai dari gedung perkantoran dan infrastruktur jalan raya. Crane merupakan salah satu alat berat yang memegang penting dalam industri konstruksi. Alat ini memungkinkan pengangkatan material berat dengan presisi, efisiensi, dan keamanan yang tinggi.

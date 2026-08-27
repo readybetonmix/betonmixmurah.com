@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kota Tangerang"
-date: "2023-10-14"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kota Tangerang
+date: '2023-10-14'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi signifikan di daerah Kota Tangerang? Jika jawabannya ya, Anda tentu memahami seberapa penting crane dalam mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi modern.

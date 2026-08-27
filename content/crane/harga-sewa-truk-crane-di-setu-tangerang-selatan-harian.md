@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Setu Tangerang Selatan Harian"
-date: "2023-04-14"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Setu Tangerang Selatan Harian
+date: '2023-04-14'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah dasar utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang memegang peran penting dalam dunia konstruksi adalah crane. Alat ini memungkinkan pengangkatan material berat dengan akurasi, efisiensi, dan keamanan yang tinggi.

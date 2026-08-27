@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kab Tangerang"
-date: "2023-06-03"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kab Tangerang
+date: '2023-06-03'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan pilar penting dalam pembangunan beragam sektor, termasuk gedung perkantoran dan infrastruktur jalan raya. Crane merupakan salah satu perangkat berat yang berperan penting dalam industri konstruksi. Alat ini memungkinkan untuk mengangkat material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

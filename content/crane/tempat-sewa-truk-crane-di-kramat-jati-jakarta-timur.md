@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kramat Jati Jakarta Timur"
-date: "2023-11-21"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kramat Jati Jakarta Timur
+date: '2023-11-21'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan dasar utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang memegang peran penting dalam dunia konstruksi adalah crane. Alat ini mengizinkan untuk mengangkat material berat dengan akurasi, efisiensi, dan tingkat keamanan yang tinggi.

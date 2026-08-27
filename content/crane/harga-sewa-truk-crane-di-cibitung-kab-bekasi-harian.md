@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cibitung Kab Bekasi Harian"
-date: "2023-05-08"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cibitung Kab Bekasi Harian
+date: '2023-05-08'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting pembangunan di berbagai sektor, mulai dari gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu perangkat berat yang memiliki peran vital dalam dunia konstruksi adalah crane. Alat ini memungkinkan pengangkatan material berat dengan akurasi, efisiensi, dan keamanan yang tinggi.

@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Bojongloa Kidul Kota Bandung"
-date: "2023-10-15"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Bojongloa Kidul Kota Bandung
+date: '2023-10-15'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi besar di area Bojongloa Kidul Kota Bandung? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan solusi untuk beraneka tantangan konstruksi masa kini.

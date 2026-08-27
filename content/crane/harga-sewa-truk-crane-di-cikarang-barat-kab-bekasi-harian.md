@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cikarang Barat Kab Bekasi Harian"
-date: "2023-10-09"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cikarang Barat Kab Bekasi Harian
+date: '2023-10-09'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi besar di wilayah Cikarang Barat Kab Bekasi? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepat pekerjaan dan memastikan hasil yang maksimal. Crane bukan hanya alat berat; ia adalah jawaban untuk berbagai tantangan dalam konstruksi masa kini.

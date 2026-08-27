@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Serang Baru Kab Bekasi"
-date: "2023-06-16"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Serang Baru Kab Bekasi
+date: '2023-06-16'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali ditentukan pada alat yang digunakan. Crane, yang merupakan perangkat berat andalan, memegang peranan penting dalam pengangkatan material berat, termasuk beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang memerlukan tingkat presisi tinggi dan efisiensi waktu akan menjadi tantangan.

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Tambelang Kab Bekasi Harian"
-date: "2023-01-17"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Tambelang Kab Bekasi Harian
+date: '2023-01-17'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan berbagai sektor, mulai dari gedung perkantoran hingga infrastruktur jalan raya. Salah satu perangkat berat yang memiliki peran vital dalam dunia konstruksi adalah crane. Alat ini memungkinkan untuk mengangkat material berat dengan presisi, efisiensi, dan standar keamanan yang tinggi.

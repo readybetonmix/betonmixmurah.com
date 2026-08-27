@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kota Depok"
-date: "2023-04-22"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kota Depok
+date: '2023-04-22'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada perangkat yang digunakan. Crane, sebagai perangkat berat andalan, menjadi tulang punggung pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tugas yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang dapat diandalkan.

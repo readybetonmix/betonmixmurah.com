@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Kemiri Kab Tangerang"
-date: "2023-08-03"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Kemiri Kab Tangerang
+date: '2023-08-03'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di area Kecamatan Kemiri Kab Tangerang? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepat pekerjaan dan memastikan hasil yang optimal. Crane lebih dari sekadar alat berat; ia adalah solusi untuk beraneka tantangan dalam konstruksi modern.

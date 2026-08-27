@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Pondok Aren Tangerang Selatan"
-date: "2023-01-07"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Pondok Aren Tangerang Selatan
+date: '2023-01-07'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di beragam sektor, seperti gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu perangkat berat yang memegang peran vital dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan proteksi yang tinggi.

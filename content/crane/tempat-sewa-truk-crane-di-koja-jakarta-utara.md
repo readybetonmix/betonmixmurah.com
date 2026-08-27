@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Koja Jakarta Utara"
-date: "2023-08-05"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Koja Jakarta Utara
+date: '2023-08-05'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah pilar penting pembangunan di beragam sektor, mulai dari gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang sangat krusial dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan proteksi yang tinggi.

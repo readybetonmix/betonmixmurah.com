@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Andir Kota Bandung Harian"
-date: "2023-04-23"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Andir Kota Bandung Harian
+date: '2023-04-23'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada perangkat yang digunakan. Crane, sebagai alat berat andalan, menjadi tulang punggung penanganan material berat, seperti beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang memerlukan level presisi tinggi dan efisiensi waktu akan menjadi tantangan.

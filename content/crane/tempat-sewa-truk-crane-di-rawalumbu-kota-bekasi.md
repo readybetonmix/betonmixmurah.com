@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Rawalumbu Kota Bekasi"
-date: "2023-05-05"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Rawalumbu Kota Bekasi
+date: '2023-05-05'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah inti utama pembangunan di beragam sektor, seperti gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang memegang peran vital dalam dunia konstruksi adalah crane. Alat ini mengizinkan pengangkatan material berat dengan akurasi, efisiensi, dan keamanan yang tinggi.

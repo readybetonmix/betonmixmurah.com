@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Pamijahan Kab Bogor Harian"
-date: "2023-09-03"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Pamijahan Kab Bogor Harian
+date: '2023-09-03'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi signifikan di daerah Pamijahan Kab Bogor? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan sekadar alat berat, melainkan solusi untuk berbagai tantangan konstruksi masa kini.

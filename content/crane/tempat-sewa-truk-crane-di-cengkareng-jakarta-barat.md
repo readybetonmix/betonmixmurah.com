@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cengkareng Jakarta Barat"
-date: "2023-08-30"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cengkareng Jakarta Barat
+date: '2023-08-30'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi penentu keberhasilan sebuah proyek. Sebagai alat berat utama, crane berperan sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan komponen besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang handal.

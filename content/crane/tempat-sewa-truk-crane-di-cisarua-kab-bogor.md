@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cisarua Kab Bogor"
-date: "2023-09-22"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cisarua Kab Bogor
+date: '2023-09-22'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah pilar penting pembangunan di berbagai sektor, termasuk gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu perangkat berat yang sangat krusial dalam dunia konstruksi adalah crane. Alat ini mengizinkan pengangkatan material berat dengan akurasi, efisiensi, dan tingkat keamanan yang tinggi.

@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Klapanunggal Kab Bogor"
-date: "2023-04-22"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Klapanunggal Kab Bogor
+date: '2023-04-22'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan fondasi utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu alat berat yang memegang peran penting dalam dunia konstruksi adalah crane. Perangkat ini mengizinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan keamanan yang tinggi.

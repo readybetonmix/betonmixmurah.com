@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Duren Sawit Jakarta Timur Harian"
-date: "2023-01-13"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Duren Sawit Jakarta Timur Harian
+date: '2023-01-13'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi signifikan di daerah Duren Sawit Jakarta Timur? Jika demikian, Anda pasti menyadari betapa pentingnya crane untuk mempercepat pekerjaan dan menjamin hasil yang maksimal. Crane bukan hanya alat berat, tetapi juga jawaban untuk berbagai tantangan yang ditemui dalam konstruksi masa kini.

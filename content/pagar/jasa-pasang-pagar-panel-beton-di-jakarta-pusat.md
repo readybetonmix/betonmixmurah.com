@@ -1,7 +1,8 @@
 ---
-title: "Jasa Pasang Pagar Panel Beton di Jakarta Pusat"
-date: "2023-10-31"
-categories: "[pagar]"
+title: Jasa Pasang Pagar Panel Beton di Jakarta Pusat
+date: '2023-10-31'
+categories: '[pagar]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Apakah Anda tahu bahwa pagar beton sekarang menjadi salah satu opsi utama untuk meningkatkan keamanan dan estetika properti? Saat ini, banyak pengelola properti di Jakarta Pusat yang menggunakan pagar panel beton karena kombinasi antara kekuatan, kekokohan, dan tampilan yang dapat diubah.  

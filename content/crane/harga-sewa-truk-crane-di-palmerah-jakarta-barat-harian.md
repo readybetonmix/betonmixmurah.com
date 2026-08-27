@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Palmerah Jakarta Barat Harian"
-date: "2023-11-15"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Palmerah Jakarta Barat Harian
+date: '2023-11-15'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi penentu keberhasilan sebuah proyek. Crane, sebagai alat berat andalan, merupakan tulang punggung pengangkatan material berat, seperti beton, baja, dan material besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang handal.

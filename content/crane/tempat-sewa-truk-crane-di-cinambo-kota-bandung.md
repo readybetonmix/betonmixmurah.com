@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cinambo Kota Bandung"
-date: "2023-11-14"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cinambo Kota Bandung
+date: '2023-11-14'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang sangat penting dalam dunia konstruksi adalah crane. Alat ini memungkinkan untuk mengangkat material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

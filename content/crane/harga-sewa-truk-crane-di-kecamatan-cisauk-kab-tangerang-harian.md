@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Cisauk Kab Tangerang Harian"
-date: "2023-01-01"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Cisauk Kab Tangerang Harian
+date: '2023-01-01'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi faktor penentu keberhasilan suatu proyek. Crane, sebagai perangkat berat andalan, menjadi tulang punggung penanganan material berat, seperti beton, baja, dan komponen besar lainnya. Pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang dapat diandalkan.

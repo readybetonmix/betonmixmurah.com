@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cibinong Kab Bogor Harian"
-date: "2023-08-16"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cibinong Kab Bogor Harian
+date: '2023-08-16'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi besar di area Cibinong Kab Bogor? Jika ya, maka Anda pasti memahami betapa pentingnya crane dalam mempercepatkan pekerjaan dan menjamin hasil yang maksimal. Crane bukan hanya alat berat; ia adalah jawaban untuk berbagai tantangan dalam konstruksi masa kini.

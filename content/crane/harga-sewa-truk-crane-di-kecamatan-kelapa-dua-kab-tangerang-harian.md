@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Kelapa Dua Kab Tangerang Harian"
-date: "2023-11-07"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Kelapa Dua Kab Tangerang Harian
+date: '2023-11-07'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada perangkat yang digunakan. Sebagai alat berat utama, crane berperan sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan material besar lainnya. Tanpa crane yang handal, tugas yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan.

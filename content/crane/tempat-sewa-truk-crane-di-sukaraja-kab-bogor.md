@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Sukaraja Kab Bogor"
-date: "2023-09-22"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Sukaraja Kab Bogor
+date: '2023-09-22'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah tulang punggung pembangunan di berbagai sektor, mulai dari gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu alat berat yang memiliki peran penting dalam dunia konstruksi adalah crane. Alat ini mengizinkan untuk mengangkat material berat dengan presisi, efisiensi, dan standar keamanan yang tinggi.

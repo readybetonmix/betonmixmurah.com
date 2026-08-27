@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Tanah Sareal Kota Bogor"
-date: "2023-05-26"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Tanah Sareal Kota Bogor
+date: '2023-05-26'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di berbagai sektor, seperti gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane merupakan salah satu alat berat yang berperan penting dalam industri konstruksi. Alat ini mengizinkan pengangkatan material berat dengan presisi, efisiensi, dan keamanan yang tinggi.

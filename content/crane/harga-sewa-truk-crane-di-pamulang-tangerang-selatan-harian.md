@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Pamulang Tangerang Selatan Harian"
-date: "2023-01-25"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Pamulang Tangerang Selatan Harian
+date: '2023-01-25'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, keberhasilan sebuah proyek sering kali bergantung pada alat yang digunakan. Crane, yang adalah alat berat andalan, memegang peranan penting dalam penanganan material berat, termasuk beton, baja, dan material besar lainnya. Tanpa crane yang handal, pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan.

@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Ujung Berung Kota Bandung"
-date: "2023-08-19"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Ujung Berung Kota Bandung
+date: '2023-08-19'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi besar di wilayah Ujung Berung Kota Bandung? Jika jawabannya ya, Anda tentu memahami seberapa penting crane dalam mempercepat pekerjaan dan memastikan hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi modern.

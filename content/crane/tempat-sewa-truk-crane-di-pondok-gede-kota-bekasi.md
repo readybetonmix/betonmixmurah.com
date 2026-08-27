@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Pondok Gede Kota Bekasi"
-date: "2023-07-04"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Pondok Gede Kota Bekasi
+date: '2023-07-04'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi besar di wilayah Pondok Gede Kota Bekasi? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan menjamin hasil yang optimal. Crane bukan hanya alat berat, tetapi juga solusi untuk beraneka tantangan yang ditemui dalam konstruksi masa kini.

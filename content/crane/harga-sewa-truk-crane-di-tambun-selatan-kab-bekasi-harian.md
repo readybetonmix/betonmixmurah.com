@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Tambun Selatan Kab Bekasi Harian"
-date: "2023-10-27"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Tambun Selatan Kab Bekasi Harian
+date: '2023-10-27'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada alat yang digunakan. Crane, sebagai alat berat andalan, menjadi tulang punggung penanganan material berat, seperti beton, baja, dan material besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang handal.

@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Sukakarya Kab Bekasi"
-date: "2023-01-14"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Sukakarya Kab Bekasi
+date: '2023-01-14'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi besar di daerah Sukakarya Kab Bekasi? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk beraneka tantangan konstruksi masa kini.

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Pakuhaji Kab Tangerang Harian"
-date: "2023-10-10"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Pakuhaji Kab Tangerang Harian
+date: '2023-10-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada alat yang digunakan. Crane, yang adalah perangkat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan komponen besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang dapat diandalkan.

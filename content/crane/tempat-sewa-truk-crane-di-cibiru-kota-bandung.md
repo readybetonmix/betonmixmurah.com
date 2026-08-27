@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cibiru Kota Bandung"
-date: "2023-11-13"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cibiru Kota Bandung
+date: '2023-11-13'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di wilayah Cibiru Kota Bandung? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane lebih dari sekadar alat berat; ia adalah jawaban untuk berbagai tantangan dalam konstruksi modern.

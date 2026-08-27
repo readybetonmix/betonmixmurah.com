@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Leuwisadeng Kab Bogor Harian"
-date: "2023-02-15"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Leuwisadeng Kab Bogor Harian
+date: '2023-02-15'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali ditentukan pada alat yang digunakan. Sebagai alat berat utama, crane berfungsi sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, tugas yang memerlukan level presisi tinggi dan efisiensi waktu akan menjadi tantangan.

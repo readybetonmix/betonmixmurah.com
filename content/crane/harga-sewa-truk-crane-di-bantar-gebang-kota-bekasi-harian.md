@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Bantar Gebang Kota Bekasi Harian"
-date: "2023-12-28"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Bantar Gebang Kota Bekasi Harian
+date: '2023-12-28'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di area Bantar Gebang Kota Bekasi? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan sekadar alat berat, melainkan solusi untuk beraneka tantangan konstruksi masa kini.

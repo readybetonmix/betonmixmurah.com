@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Jakarta Utara"
-date: "2023-09-26"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Jakarta Utara
+date: '2023-09-26'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di area Jakarta Utara? Jika demikian, Anda pasti menyadari betapa pentingnya crane untuk mempercepat pekerjaan dan memastikan hasil yang maksimal. Crane bukan hanya alat berat, tetapi juga jawaban untuk berbagai tantangan yang ditemui dalam konstruksi masa kini.

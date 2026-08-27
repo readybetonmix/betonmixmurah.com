@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Pasar Rebo Jakarta Timur"
-date: "2023-05-24"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Pasar Rebo Jakarta Timur
+date: '2023-05-24'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di wilayah Pasar Rebo Jakarta Timur? Jika demikian, Anda pasti menyadari betapa pentingnya crane untuk mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk beraneka tantangan konstruksi masa kini.

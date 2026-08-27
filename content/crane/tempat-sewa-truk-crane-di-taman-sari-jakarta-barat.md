@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Taman Sari Jakarta Barat"
-date: "2023-01-17"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Taman Sari Jakarta Barat
+date: '2023-01-17'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan beragam sektor, mulai dari gedung perkantoran hingga infrastruktur jalan raya. Crane merupakan salah satu alat berat yang memegang penting dalam industri konstruksi. Alat ini memungkinkan untuk mengangkat material berat dengan presisi, efisiensi, dan standar keamanan yang tinggi.

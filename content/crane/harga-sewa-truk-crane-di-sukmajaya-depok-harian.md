@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Sukmajaya Depok Harian"
-date: "2023-05-05"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Sukmajaya Depok Harian
+date: '2023-05-05'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan beragam sektor, mulai dari gedung perkantoran dan infrastruktur jalan raya. Salah satu perangkat berat yang memegang peran penting dalam dunia konstruksi adalah crane. Alat ini memungkinkan untuk mengangkat material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

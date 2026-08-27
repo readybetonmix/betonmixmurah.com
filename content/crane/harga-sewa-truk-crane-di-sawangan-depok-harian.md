@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Sawangan Depok Harian"
-date: "2023-08-09"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Sawangan Depok Harian
+date: '2023-08-09'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu perangkat berat yang memegang peran vital dalam dunia konstruksi adalah crane. Alat ini mengizinkan pengangkatan material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

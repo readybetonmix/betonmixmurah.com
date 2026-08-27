@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Ciracas Jakarta Timur Harian"
-date: "2023-02-09"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Ciracas Jakarta Timur Harian
+date: '2023-02-09'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada alat yang digunakan. Crane, yang adalah perangkat berat andalan, memegang peranan penting dalam penanganan material berat, termasuk beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang memerlukan tingkat presisi tinggi dan efisiensi waktu akan sulit dilakukan.

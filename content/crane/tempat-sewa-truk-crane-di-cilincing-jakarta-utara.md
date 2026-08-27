@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cilincing Jakarta Utara"
-date: "2023-04-28"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cilincing Jakarta Utara
+date: '2023-04-28'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi signifikan di daerah Cilincing Jakarta Utara? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepat pekerjaan dan menjamin hasil yang maksimal. Crane bukan hanya alat berat, tetapi juga solusi untuk beraneka tantangan yang ditemui dalam konstruksi masa kini.

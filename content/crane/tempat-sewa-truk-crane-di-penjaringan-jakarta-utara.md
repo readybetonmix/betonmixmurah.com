@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Penjaringan Jakarta Utara"
-date: "2023-08-14"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Penjaringan Jakarta Utara
+date: '2023-08-14'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali bergantung pada perangkat yang digunakan. Sebagai perangkat berat utama, crane berfungsi sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa adanya crane yang dapat diandalkan, tugas yang memerlukan level presisi tinggi dan efisiensi waktu akan sulit dilakukan.

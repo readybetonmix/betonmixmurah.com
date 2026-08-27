@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Serpong Tangerang Selatan"
-date: "2023-08-02"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Serpong Tangerang Selatan
+date: '2023-08-02'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di area Serpong Tangerang Selatan? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepat pekerjaan dan memastikan hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi masa kini.

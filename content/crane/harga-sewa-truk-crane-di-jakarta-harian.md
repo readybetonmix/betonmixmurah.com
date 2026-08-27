@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Jakarta Harian"
-date: "2023-12-23"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Jakarta Harian
+date: '2023-12-23'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan pilar penting pembangunan di beragam sektor, mulai dari gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang memiliki peran krusial dalam dunia konstruksi adalah crane. Perangkat ini mengizinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan keamanan yang tinggi.

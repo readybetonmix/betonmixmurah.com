@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kota Bandung"
-date: "2023-02-04"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kota Bandung
+date: '2023-02-04'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi besar di wilayah Kota Bandung? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan sekadar alat berat, melainkan solusi untuk beraneka tantangan konstruksi modern.

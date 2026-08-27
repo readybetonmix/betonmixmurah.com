@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Jakarta"
-date: "2023-07-10"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Jakarta
+date: '2023-07-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada alat yang digunakan. Crane, yang merupakan alat berat andalan, berperan penting dalam pengangkatan material berat, termasuk beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang memerlukan tingkat presisi tinggi dan efisiensi waktu akan sulit dilakukan.

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Tanah Sareal Kota Bogor Harian"
-date: "2023-01-19"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Tanah Sareal Kota Bogor Harian
+date: '2023-01-19'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi penentu keberhasilan suatu proyek. Crane, sebagai alat berat andalan, merupakan tulang punggung penanganan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa crane yang dapat diandalkan, tugas yang memerlukan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

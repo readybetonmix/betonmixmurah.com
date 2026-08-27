@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Jambe Kab Tangerang"
-date: "2023-10-28"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Jambe Kab Tangerang
+date: '2023-10-28'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi faktor penentu keberhasilan sebuah proyek. Crane, yang merupakan alat berat andalan, memegang peranan penting dalam penanganan material berat, termasuk beton, baja, dan komponen besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang butuh level presisi tinggi dan efisiensi waktu akan sulit dilakukan.

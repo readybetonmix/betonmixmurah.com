@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Parung Kab Bogor Harian"
-date: "2023-08-14"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Parung Kab Bogor Harian
+date: '2023-08-14'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi besar di wilayah Parung Kab Bogor? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepatkan pekerjaan dan menjamin hasil yang optimal. Crane bukan hanya alat berat; ia adalah jawaban untuk berbagai tantangan dalam konstruksi modern.

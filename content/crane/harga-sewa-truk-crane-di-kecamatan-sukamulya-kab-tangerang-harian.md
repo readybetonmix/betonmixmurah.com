@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Sukamulya Kab Tangerang Harian"
-date: "2023-02-25"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Sukamulya Kab Tangerang Harian
+date: '2023-02-25'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali bergantung pada perangkat yang digunakan. Crane, sebagai perangkat berat andalan, merupakan tulang punggung pengangkatan material berat, seperti beton, baja, dan material besar lainnya. Tugas yang memerlukan presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang dapat diandalkan.

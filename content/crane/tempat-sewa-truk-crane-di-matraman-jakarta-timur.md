@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Matraman Jakarta Timur"
-date: "2023-10-31"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Matraman Jakarta Timur
+date: '2023-10-31'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan inti utama pembangunan di berbagai sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane adalah salah satu alat berat yang memegang penting dalam industri konstruksi. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan proteksi yang tinggi.

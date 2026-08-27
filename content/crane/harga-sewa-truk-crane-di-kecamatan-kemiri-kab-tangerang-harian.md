@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Kemiri Kab Tangerang Harian"
-date: "2023-08-29"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Kemiri Kab Tangerang Harian
+date: '2023-08-29'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di wilayah Kecamatan Kemiri Kab Tangerang? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepat pekerjaan dan memastikan hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi masa kini.

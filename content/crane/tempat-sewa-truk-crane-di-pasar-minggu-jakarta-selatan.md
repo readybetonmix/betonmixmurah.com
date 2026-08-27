@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Pasar Minggu Jakarta Selatan"
-date: "2023-04-07"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Pasar Minggu Jakarta Selatan
+date: '2023-04-07'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di area Pasar Minggu Jakarta Selatan? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepat pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi modern.

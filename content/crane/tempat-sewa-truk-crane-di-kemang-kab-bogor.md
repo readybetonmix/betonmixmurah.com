@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kemang Kab Bogor"
-date: "2023-10-30"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kemang Kab Bogor
+date: '2023-10-30'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan dasar utama pembangunan di berbagai sektor, seperti gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang sangat krusial dalam dunia konstruksi adalah crane. Alat ini mengizinkan pengangkatan material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

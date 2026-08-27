@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Pagedangan Kab Tangerang Harian"
-date: "2023-03-27"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Pagedangan Kab Tangerang Harian
+date: '2023-03-27'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi penentu keberhasilan sebuah proyek. Sebagai alat berat utama, crane berperan sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang dapat diandalkan.

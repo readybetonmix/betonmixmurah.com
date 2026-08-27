@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Tenjo Kab Bogor Harian"
-date: "2023-06-18"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Tenjo Kab Bogor Harian
+date: '2023-06-18'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada alat yang digunakan. Crane, yang adalah alat berat andalan, memegang peranan penting dalam penanganan material berat, termasuk beton, baja, dan komponen besar lainnya. Tanpa crane yang dapat diandalkan, tugas yang membutuhkan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

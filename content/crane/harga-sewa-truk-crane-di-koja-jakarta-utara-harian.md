@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Koja Jakarta Utara Harian"
-date: "2023-07-04"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Koja Jakarta Utara Harian
+date: '2023-07-04'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan fondasi utama pembangunan di beragam sektor, mulai dari gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Crane merupakan salah satu alat berat yang berperan penting dalam industri konstruksi. Alat ini mengizinkan untuk mengangkat material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

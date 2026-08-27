@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Batuceper Kota Tangerang"
-date: "2023-02-03"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Batuceper Kota Tangerang
+date: '2023-02-03'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada alat yang digunakan. Crane, sebagai alat berat andalan, merupakan tulang punggung pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa adanya crane yang dapat diandalkan, tugas yang butuh tingkat presisi tinggi dan efisiensi waktu akan menjadi tantangan.

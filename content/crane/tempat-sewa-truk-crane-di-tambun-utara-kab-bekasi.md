@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Tambun Utara Kab Bekasi"
-date: "2023-02-09"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Tambun Utara Kab Bekasi
+date: '2023-02-09'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada perangkat yang digunakan. Crane, yang adalah alat berat andalan, memegang peranan penting dalam penanganan material berat, termasuk beton, baja, dan komponen besar lainnya. Tanpa crane yang dapat diandalkan, pekerjaan yang membutuhkan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan.

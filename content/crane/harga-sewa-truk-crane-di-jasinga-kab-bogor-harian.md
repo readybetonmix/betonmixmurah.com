@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Jasinga Kab Bogor Harian"
-date: "2023-08-03"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Jasinga Kab Bogor Harian
+date: '2023-08-03'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi besar di daerah Jasinga Kab Bogor? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepat pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk beraneka tantangan konstruksi masa kini.

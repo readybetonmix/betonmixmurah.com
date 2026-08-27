@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Megamendung Kab Bogor Harian"
-date: "2023-10-02"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Megamendung Kab Bogor Harian
+date: '2023-10-02'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada alat yang digunakan. Crane, sebagai perangkat berat andalan, menjadi tulang punggung penanganan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa adanya crane yang dapat diandalkan, tugas yang butuh tingkat presisi tinggi dan efisiensi waktu akan menjadi tantangan.

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Panongan Kab Tangerang Harian"
-date: "2023-11-01"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Panongan Kab Tangerang Harian
+date: '2023-11-01'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi penentu keberhasilan suatu proyek. Crane, sebagai perangkat berat andalan, merupakan tulang punggung penanganan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa adanya crane yang dapat diandalkan, tugas yang butuh level presisi tinggi dan efisiensi waktu akan menjadi tantangan.

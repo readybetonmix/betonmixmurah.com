@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kota Bogor Harian"
-date: "2023-11-30"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kota Bogor Harian
+date: '2023-11-30'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi besar di daerah Kota Bogor? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan solusi untuk beraneka tantangan konstruksi masa kini.

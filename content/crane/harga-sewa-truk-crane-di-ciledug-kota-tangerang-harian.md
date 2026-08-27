@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Ciledug Kota Tangerang Harian"
-date: "2023-04-26"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Ciledug Kota Tangerang Harian
+date: '2023-04-26'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, keberhasilan sebuah proyek sering kali bergantung pada alat yang digunakan. Crane, yang merupakan perangkat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan material besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang dapat diandalkan.

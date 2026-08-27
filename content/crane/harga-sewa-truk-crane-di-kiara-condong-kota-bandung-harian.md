@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kiara Condong Kota Bandung Harian"
-date: "2023-09-10"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kiara Condong Kota Bandung Harian
+date: '2023-09-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di area Kiara Condong Kota Bandung? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan hanya alat berat, tetapi juga jawaban untuk beraneka tantangan yang ditemui dalam konstruksi modern.

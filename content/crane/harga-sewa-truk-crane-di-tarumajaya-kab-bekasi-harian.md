@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Tarumajaya Kab Bekasi Harian"
-date: "2023-07-07"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Tarumajaya Kab Bekasi Harian
+date: '2023-07-07'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi signifikan di daerah Tarumajaya Kab Bekasi? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan menjamin hasil yang optimal. Crane lebih dari sekadar alat berat; ia adalah solusi untuk berbagai tantangan dalam konstruksi modern.

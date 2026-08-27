@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cikarang Pusat Kab Bekasi"
-date: "2023-04-07"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cikarang Pusat Kab Bekasi
+date: '2023-04-07'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di wilayah Cikarang Pusat Kab Bekasi? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan hanya perangkat berat, tetapi juga jawaban untuk berbagai tantangan yang dihadapi dalam konstruksi modern.

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Serpong Utara Tangerang Selatan Harian"
-date: "2023-11-24"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Serpong Utara Tangerang Selatan Harian
+date: '2023-11-24'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan fondasi utama pembangunan di berbagai sektor, seperti gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane merupakan salah satu perangkat berat yang memegang penting dalam industri konstruksi. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan proteksi yang tinggi.

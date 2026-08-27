@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cibeunying Kaler Kota Bandung"
-date: "2023-05-19"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cibeunying Kaler Kota Bandung
+date: '2023-05-19'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi besar di area Cibeunying Kaler Kota Bandung? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane bukan hanya perangkat berat, tetapi juga solusi untuk beraneka tantangan yang ditemui dalam konstruksi modern.

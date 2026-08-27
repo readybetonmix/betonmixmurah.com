@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cilandak Jakarta Selatan"
-date: "2023-04-10"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cilandak Jakarta Selatan
+date: '2023-04-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di wilayah Cilandak Jakarta Selatan? Jika jawabannya ya, Anda tentu memahami seberapa penting crane dalam mempercepat pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi modern.

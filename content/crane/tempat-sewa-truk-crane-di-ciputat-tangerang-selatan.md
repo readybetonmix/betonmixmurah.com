@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Ciputat Tangerang Selatan"
-date: "2023-07-13"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Ciputat Tangerang Selatan
+date: '2023-07-13'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi signifikan di daerah Ciputat Tangerang Selatan? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan hanya perangkat berat, tetapi juga solusi untuk beraneka tantangan yang dihadapi dalam konstruksi masa kini.

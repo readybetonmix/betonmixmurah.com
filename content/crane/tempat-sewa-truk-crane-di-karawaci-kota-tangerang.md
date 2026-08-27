@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Karawaci Kota Tangerang"
-date: "2023-03-30"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Karawaci Kota Tangerang
+date: '2023-03-30'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi penentu keberhasilan suatu proyek. Crane, sebagai alat berat andalan, merupakan tulang punggung penanganan material berat, seperti beton, baja, dan material besar lainnya. Tanpa crane yang handal, tugas yang membutuhkan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan.

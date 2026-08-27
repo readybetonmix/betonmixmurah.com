@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kab Bogor"
-date: "2023-04-18"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kab Bogor
+date: '2023-04-18'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di wilayah Kab Bogor? Jika demikian, Anda pasti menyadari betapa pentingnya crane untuk mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan hanya perangkat berat, tetapi juga jawaban untuk berbagai tantangan yang dihadapi dalam konstruksi masa kini.

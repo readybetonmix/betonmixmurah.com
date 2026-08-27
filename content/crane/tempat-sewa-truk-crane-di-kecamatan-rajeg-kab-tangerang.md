@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Rajeg Kab Tangerang"
-date: "2023-02-27"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Rajeg Kab Tangerang
+date: '2023-02-27'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan berbagai sektor, mulai dari gedung perkantoran hingga infrastruktur jalan raya. Salah satu perangkat berat yang sangat penting dalam dunia konstruksi adalah crane. Perangkat ini mengizinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan keamanan yang tinggi.

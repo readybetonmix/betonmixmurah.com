@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cicendo Kota Bandung"
-date: "2023-06-04"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cicendo Kota Bandung
+date: '2023-06-04'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah dasar utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane adalah salah satu alat berat yang berperan penting dalam industri konstruksi. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan proteksi yang tinggi.

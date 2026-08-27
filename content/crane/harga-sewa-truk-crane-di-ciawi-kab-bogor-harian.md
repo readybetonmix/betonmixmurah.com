@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Ciawi Kab Bogor Harian"
-date: "2023-05-26"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Ciawi Kab Bogor Harian
+date: '2023-05-26'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di wilayah Ciawi Kab Bogor? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan hanya perangkat berat, tetapi juga solusi untuk berbagai tantangan yang ditemui dalam konstruksi masa kini.

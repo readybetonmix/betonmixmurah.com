@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cipayung Jakarta Timur Harian"
-date: "2023-01-11"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cipayung Jakarta Timur Harian
+date: '2023-01-11'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan dasar utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang sangat krusial dalam dunia konstruksi adalah crane. Alat ini mengizinkan pengangkatan material berat dengan akurasi, efisiensi, dan tingkat keamanan yang tinggi.

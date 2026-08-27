@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Nanggung Kab Bogor"
-date: "2023-06-09"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Nanggung Kab Bogor
+date: '2023-06-09'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan dasar utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane merupakan salah satu alat berat yang berperan penting dalam industri konstruksi. Alat ini memungkinkan untuk mengangkat material berat dengan akurasi, efisiensi, dan tingkat keamanan yang tinggi.

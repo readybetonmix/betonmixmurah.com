@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cicendo Kota Bandung Harian"
-date: "2023-08-16"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cicendo Kota Bandung Harian
+date: '2023-08-16'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi besar di area Cicendo Kota Bandung? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan menjamin hasil yang maksimal. Crane bukan hanya perangkat berat, tetapi juga solusi untuk beraneka tantangan yang dihadapi dalam konstruksi masa kini.

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Pasar Minggu Jakarta Selatan Harian"
-date: "2023-11-03"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Pasar Minggu Jakarta Selatan Harian
+date: '2023-11-03'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di berbagai sektor, termasuk gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Crane adalah salah satu alat berat yang berperan penting dalam industri konstruksi. Alat ini memungkinkan pengangkatan material berat dengan akurasi, efisiensi, dan keamanan yang tinggi.

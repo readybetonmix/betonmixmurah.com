@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Tanah Abang Jakarta Pusat Harian"
-date: "2023-08-16"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Tanah Abang Jakarta Pusat Harian
+date: '2023-08-16'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi faktor penentu keberhasilan suatu proyek. Crane, sebagai perangkat berat andalan, menjadi tulang punggung penanganan material berat, seperti beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang butuh level presisi tinggi dan efisiensi waktu akan sulit dilakukan.

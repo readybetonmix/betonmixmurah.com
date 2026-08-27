@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Pondok Gede Kota Bekasi Harian"
-date: "2023-10-24"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Pondok Gede Kota Bekasi Harian
+date: '2023-10-24'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi signifikan di daerah Pondok Gede Kota Bekasi? Jika ya, maka Anda pasti memahami betapa pentingnya crane dalam mempercepat pekerjaan dan menjamin hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi masa kini.

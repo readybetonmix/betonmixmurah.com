@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Tigaraksa Kab Tangerang Harian"
-date: "2023-10-18"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Tigaraksa Kab Tangerang Harian
+date: '2023-10-18'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi besar di area Kecamatan Tigaraksa Kab Tangerang? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan solusi untuk berbagai tantangan konstruksi masa kini.

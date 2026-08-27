@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Karangbahagia Kab Bekasi"
-date: "2023-08-31"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Karangbahagia Kab Bekasi
+date: '2023-08-31'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di area Karangbahagia Kab Bekasi? Jika demikian, Anda pasti menyadari betapa pentingnya crane untuk mempercepatkan pekerjaan dan menjamin hasil yang maksimal. Crane bukan hanya perangkat berat, tetapi juga solusi untuk berbagai tantangan yang ditemui dalam konstruksi masa kini.

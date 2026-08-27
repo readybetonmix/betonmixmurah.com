@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kab Bandung Harian"
-date: "2023-07-08"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kab Bandung Harian
+date: '2023-07-08'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan pilar penting dalam pembangunan berbagai sektor, mulai dari gedung perkantoran hingga infrastruktur jalan raya. Crane adalah salah satu perangkat berat yang berperan penting dalam industri konstruksi. Alat ini mengizinkan pengangkatan material berat dengan presisi, efisiensi, dan keamanan yang tinggi.

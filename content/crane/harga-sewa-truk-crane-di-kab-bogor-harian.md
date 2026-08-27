@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kab Bogor Harian"
-date: "2023-07-01"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kab Bogor Harian
+date: '2023-07-01'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali ditentukan pada perangkat yang digunakan. Crane, sebagai alat berat andalan, menjadi tulang punggung penanganan material berat, seperti beton, baja, dan material besar lainnya. Pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang dapat diandalkan.

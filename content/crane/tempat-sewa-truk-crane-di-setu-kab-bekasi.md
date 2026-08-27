@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Setu Kab Bekasi"
-date: "2023-10-04"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Setu Kab Bekasi
+date: '2023-10-04'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi besar di daerah Setu Kab Bekasi? Jika demikian, Anda pasti menyadari betapa pentingnya crane untuk mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan hanya perangkat berat, tetapi juga solusi untuk berbagai tantangan yang ditemui dalam konstruksi masa kini.

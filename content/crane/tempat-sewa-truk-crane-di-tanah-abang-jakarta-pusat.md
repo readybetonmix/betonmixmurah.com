@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Tanah Abang Jakarta Pusat"
-date: "2023-12-15"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Tanah Abang Jakarta Pusat
+date: '2023-12-15'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting pembangunan di beragam sektor, mulai dari gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu perangkat berat yang memiliki peran krusial dalam dunia konstruksi adalah crane. Alat ini memungkinkan untuk mengangkat material berat dengan presisi, efisiensi, dan standar keamanan yang tinggi.

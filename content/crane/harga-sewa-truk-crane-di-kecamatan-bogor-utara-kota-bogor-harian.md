@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Bogor Utara Kota Bogor Harian"
-date: "2023-10-05"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Bogor Utara Kota Bogor Harian
+date: '2023-10-05'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan pilar penting pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu perangkat berat yang memegang peran vital dalam dunia konstruksi adalah crane. Alat ini memungkinkan pengangkatan material berat dengan akurasi, efisiensi, dan keamanan yang tinggi.

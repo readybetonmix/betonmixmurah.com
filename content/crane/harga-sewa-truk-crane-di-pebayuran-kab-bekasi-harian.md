@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Pebayuran Kab Bekasi Harian"
-date: "2023-05-15"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Pebayuran Kab Bekasi Harian
+date: '2023-05-15'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada alat yang digunakan. Crane, sebagai alat berat andalan, menjadi tulang punggung pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa crane yang dapat diandalkan, pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan.

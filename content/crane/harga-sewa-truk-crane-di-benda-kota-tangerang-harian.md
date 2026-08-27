@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Benda Kota Tangerang Harian"
-date: "2023-09-25"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Benda Kota Tangerang Harian
+date: '2023-09-25'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi besar di daerah Benda Kota Tangerang? Jika ya, maka Anda pasti memahami betapa pentingnya crane dalam mempercepat pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi modern.

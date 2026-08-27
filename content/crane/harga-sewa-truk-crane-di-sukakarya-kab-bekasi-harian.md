@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Sukakarya Kab Bekasi Harian"
-date: "2023-09-23"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Sukakarya Kab Bekasi Harian
+date: '2023-09-23'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali ditentukan pada alat yang digunakan. Sebagai alat berat utama, crane berperan sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa adanya crane yang dapat diandalkan, tugas yang memerlukan tingkat presisi tinggi dan efisiensi waktu akan sulit dilakukan.

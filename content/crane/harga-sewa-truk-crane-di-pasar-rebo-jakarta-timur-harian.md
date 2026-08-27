@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Pasar Rebo Jakarta Timur Harian"
-date: "2023-07-21"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Pasar Rebo Jakarta Timur Harian
+date: '2023-07-21'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada alat yang digunakan. Crane, yang adalah perangkat berat andalan, berperan penting dalam pengangkatan material berat, termasuk beton, baja, dan komponen besar lainnya. Pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang dapat diandalkan.

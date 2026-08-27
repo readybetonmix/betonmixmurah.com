@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Batuceper Kota Tangerang Harian"
-date: "2023-03-24"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Batuceper Kota Tangerang Harian
+date: '2023-03-24'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan tulang punggung pembangunan di berbagai sektor, mulai dari gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu perangkat berat yang sangat penting dalam dunia konstruksi adalah crane. Alat ini mengizinkan untuk mengangkat material berat dengan akurasi, efisiensi, dan tingkat keamanan yang tinggi.

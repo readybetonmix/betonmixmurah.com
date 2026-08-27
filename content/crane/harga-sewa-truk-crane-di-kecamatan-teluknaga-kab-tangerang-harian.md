@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Teluknaga Kab Tangerang Harian"
-date: "2023-03-10"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Teluknaga Kab Tangerang Harian
+date: '2023-03-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan berbagai sektor, mulai dari gedung perkantoran hingga infrastruktur jalan raya. Crane adalah salah satu alat berat yang memegang penting dalam industri konstruksi. Perangkat ini mengizinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan keamanan yang tinggi.

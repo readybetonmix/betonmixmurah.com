@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Antapani Kota Bandung"
-date: "2023-12-30"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Antapani Kota Bandung
+date: '2023-12-30'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi signifikan di daerah Antapani Kota Bandung? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan hanya alat berat, tetapi juga jawaban untuk beraneka tantangan yang ditemui dalam konstruksi masa kini.

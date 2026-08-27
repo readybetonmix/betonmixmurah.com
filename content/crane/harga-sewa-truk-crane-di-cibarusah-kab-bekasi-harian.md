@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cibarusah Kab Bekasi Harian"
-date: "2023-06-20"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cibarusah Kab Bekasi Harian
+date: '2023-06-20'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di area Cibarusah Kab Bekasi? Jika jawabannya ya, Anda tentu memahami seberapa penting crane dalam mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane bukan hanya alat berat; ia adalah jawaban untuk beraneka tantangan dalam konstruksi masa kini.

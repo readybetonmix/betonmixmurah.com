@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cakung Jakarta Timur Harian"
-date: "2023-09-10"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cakung Jakarta Timur Harian
+date: '2023-09-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan beragam sektor, mulai dari gedung perkantoran dan infrastruktur jalan raya. Salah satu alat berat yang sangat krusial dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan proteksi yang tinggi.

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Sukamakmur Kab Bogor Harian"
-date: "2023-02-25"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Sukamakmur Kab Bogor Harian
+date: '2023-02-25'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi penentu keberhasilan sebuah proyek. Sebagai perangkat berat utama, crane berperan sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan material besar lainnya. Pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang handal.

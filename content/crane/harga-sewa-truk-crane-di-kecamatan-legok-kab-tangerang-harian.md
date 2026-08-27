@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Legok Kab Tangerang Harian"
-date: "2023-06-12"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Legok Kab Tangerang Harian
+date: '2023-06-12'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali bergantung pada alat yang digunakan. Crane, yang merupakan perangkat berat andalan, memegang peranan penting dalam pengangkatan material berat, termasuk beton, baja, dan komponen besar lainnya. Pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang handal.

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Antapani Kota Bandung Harian"
-date: "2023-09-25"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Antapani Kota Bandung Harian
+date: '2023-09-25'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada perangkat yang digunakan. Crane, sebagai perangkat berat andalan, menjadi tulang punggung pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa crane yang dapat diandalkan, tugas yang membutuhkan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan.

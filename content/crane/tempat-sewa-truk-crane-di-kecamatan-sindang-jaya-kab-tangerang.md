@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Sindang Jaya Kab Tangerang"
-date: "2023-11-08"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Sindang Jaya Kab Tangerang
+date: '2023-11-08'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah tulang punggung pembangunan di beragam sektor, mulai dari gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu perangkat berat yang sangat penting dalam dunia konstruksi adalah crane. Alat ini mengizinkan pengangkatan material berat dengan akurasi, efisiensi, dan tingkat keamanan yang tinggi.

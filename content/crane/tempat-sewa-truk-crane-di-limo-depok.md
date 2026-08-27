@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Limo Depok"
-date: "2023-09-13"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Limo Depok
+date: '2023-09-13'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada perangkat yang digunakan. Sebagai perangkat berat utama, crane berfungsi sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan komponen besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang dapat diandalkan.

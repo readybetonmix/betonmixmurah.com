@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Ciledug Kota Tangerang"
-date: "2023-01-20"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Ciledug Kota Tangerang
+date: '2023-01-20'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di wilayah Ciledug Kota Tangerang? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane bukan hanya perangkat berat, tetapi juga solusi untuk berbagai tantangan yang ditemui dalam konstruksi modern.

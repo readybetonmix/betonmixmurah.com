@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Tenjo Kab Bogor"
-date: "2023-12-08"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Tenjo Kab Bogor
+date: '2023-12-08'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di area Tenjo Kab Bogor? Jika ya, maka Anda pasti memahami betapa pentingnya crane dalam mempercepat pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi masa kini.

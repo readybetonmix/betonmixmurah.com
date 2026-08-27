@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Rancasari Kota Bandung Harian"
-date: "2023-03-19"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Rancasari Kota Bandung Harian
+date: '2023-03-19'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada alat yang digunakan. Crane, sebagai alat berat andalan, merupakan tulang punggung pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tugas yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang handal.

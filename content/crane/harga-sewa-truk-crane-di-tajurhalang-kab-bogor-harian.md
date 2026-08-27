@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Tajurhalang Kab Bogor Harian"
-date: "2023-12-20"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Tajurhalang Kab Bogor Harian
+date: '2023-12-20'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan tulang punggung pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu alat berat yang sangat penting dalam dunia konstruksi adalah crane. Alat ini memungkinkan pengangkatan material berat dengan akurasi, efisiensi, dan keamanan yang tinggi.

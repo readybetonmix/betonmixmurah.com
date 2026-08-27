@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Jasinga Kab Bogor"
-date: "2023-09-30"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Jasinga Kab Bogor
+date: '2023-09-30'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada perangkat yang digunakan. Crane, yang adalah perangkat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan komponen besar lainnya. Tanpa crane yang dapat diandalkan, tugas yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan.

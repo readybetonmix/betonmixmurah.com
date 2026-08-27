@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Mauk Kab Tangerang"
-date: "2023-05-23"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Mauk Kab Tangerang
+date: '2023-05-23'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi besar di daerah Kecamatan Mauk Kab Tangerang? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi modern.

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Panyileukan Kota Bandung Harian"
-date: "2023-11-07"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Panyileukan Kota Bandung Harian
+date: '2023-11-07'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada perangkat yang digunakan. Crane, sebagai perangkat berat andalan, menjadi tulang punggung pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang dapat diandalkan.

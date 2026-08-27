@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Regol Kota Bandung"
-date: "2023-09-03"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Regol Kota Bandung
+date: '2023-09-03'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada alat yang digunakan. Crane, yang merupakan alat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan material besar lainnya. Tanpa crane yang handal, pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan.

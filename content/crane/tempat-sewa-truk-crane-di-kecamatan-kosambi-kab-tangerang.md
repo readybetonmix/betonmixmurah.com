@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Kosambi Kab Tangerang"
-date: "2023-10-12"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Kosambi Kab Tangerang
+date: '2023-10-12'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, keberhasilan sebuah proyek sering kali bergantung pada perangkat yang digunakan. Crane, sebagai alat berat andalan, merupakan tulang punggung pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa crane yang dapat diandalkan, pekerjaan yang membutuhkan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

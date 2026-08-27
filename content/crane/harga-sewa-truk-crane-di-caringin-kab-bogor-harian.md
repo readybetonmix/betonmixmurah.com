@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Caringin Kab Bogor Harian"
-date: "2023-03-02"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Caringin Kab Bogor Harian
+date: '2023-03-02'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di berbagai sektor, seperti gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane adalah salah satu perangkat berat yang memegang penting dalam industri konstruksi. Alat ini memungkinkan pengangkatan material berat dengan presisi, efisiensi, dan keamanan yang tinggi.

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Pademangan Jakarta Utara Harian"
-date: "2023-01-18"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Pademangan Jakarta Utara Harian
+date: '2023-01-18'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan inti utama pembangunan di berbagai sektor, seperti gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu perangkat berat yang sangat krusial dalam dunia konstruksi adalah crane. Alat ini memungkinkan untuk mengangkat material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

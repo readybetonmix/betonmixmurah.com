@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Pancoran Jakarta Selatan Harian"
-date: "2023-11-05"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Pancoran Jakarta Selatan Harian
+date: '2023-11-05'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi besar di area Pancoran Jakarta Selatan? Jika jawabannya ya, Anda tentu memahami seberapa penting crane dalam mempercepat pekerjaan dan memastikan hasil yang optimal. Crane bukan hanya alat berat, tetapi juga solusi untuk beraneka tantangan yang ditemui dalam konstruksi modern.

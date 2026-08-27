@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kedungwaringin Kab Bekasi"
-date: "2023-10-30"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kedungwaringin Kab Bekasi
+date: '2023-10-30'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali ditentukan pada perangkat yang digunakan. Sebagai alat berat utama, crane berfungsi sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan komponen besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang handal.

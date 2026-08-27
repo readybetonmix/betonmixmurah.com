@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Bojongmangu Kab Bekasi"
-date: "2023-07-16"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Bojongmangu Kab Bekasi
+date: '2023-07-16'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi faktor penentu keberhasilan suatu proyek. Crane, sebagai perangkat berat andalan, menjadi tulang punggung pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang dapat diandalkan.

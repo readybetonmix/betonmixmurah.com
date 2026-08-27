@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Tambora Jakarta Barat Harian"
-date: "2023-06-28"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Tambora Jakarta Barat Harian
+date: '2023-06-28'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan tulang punggung pembangunan di berbagai sektor, termasuk gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu alat berat yang memegang peran penting dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan keamanan yang tinggi.

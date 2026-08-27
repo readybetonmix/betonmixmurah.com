@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Jayanti Kab Tangerang Harian"
-date: "2023-03-11"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Jayanti Kab Tangerang Harian
+date: '2023-03-11'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi faktor penentu keberhasilan sebuah proyek. Sebagai perangkat berat utama, crane berfungsi sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan material besar lainnya. Tugas yang butuh presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang dapat diandalkan.

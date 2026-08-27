@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Citeureup Kab Bogor"
-date: "2023-01-03"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Citeureup Kab Bogor
+date: '2023-01-03'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di wilayah Citeureup Kab Bogor? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi masa kini.

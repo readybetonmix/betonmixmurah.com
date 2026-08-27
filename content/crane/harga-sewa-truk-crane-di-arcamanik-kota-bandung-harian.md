@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Arcamanik Kota Bandung Harian"
-date: "2023-11-24"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Arcamanik Kota Bandung Harian
+date: '2023-11-24'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi signifikan di daerah Arcamanik Kota Bandung? Jika jawabannya ya, Anda tentu memahami seberapa penting crane dalam mempercepatkan pekerjaan dan menjamin hasil yang maksimal. Crane bukan hanya alat berat; ia adalah solusi untuk berbagai tantangan dalam konstruksi modern.

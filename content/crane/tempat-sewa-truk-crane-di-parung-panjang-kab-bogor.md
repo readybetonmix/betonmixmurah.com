@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Parung Panjang Kab Bogor"
-date: "2023-10-25"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Parung Panjang Kab Bogor
+date: '2023-10-25'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah dasar utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang sangat penting dalam dunia konstruksi adalah crane. Alat ini mengizinkan untuk mengangkat material berat dengan presisi, efisiensi, dan standar keamanan yang tinggi.

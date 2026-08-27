@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Bekasi Timur Kota Bekasi"
-date: "2023-08-12"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Bekasi Timur Kota Bekasi
+date: '2023-08-12'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan pilar penting pembangunan di beragam sektor, mulai dari gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu perangkat berat yang memegang peran krusial dalam dunia konstruksi adalah crane. Alat ini memungkinkan untuk mengangkat material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

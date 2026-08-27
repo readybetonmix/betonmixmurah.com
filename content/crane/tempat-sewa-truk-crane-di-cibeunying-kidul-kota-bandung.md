@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cibeunying Kidul Kota Bandung"
-date: "2023-11-06"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cibeunying Kidul Kota Bandung
+date: '2023-11-06'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan pilar penting dalam pembangunan berbagai sektor, mulai dari gedung perkantoran hingga infrastruktur jalan raya. Salah satu perangkat berat yang sangat krusial dalam dunia konstruksi adalah crane. Alat ini mengizinkan pengangkatan material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

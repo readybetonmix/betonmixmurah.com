@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Setiabudi Jakarta Selatan Harian"
-date: "2023-08-12"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Setiabudi Jakarta Selatan Harian
+date: '2023-08-12'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, keberhasilan sebuah proyek sering kali bergantung pada alat yang digunakan. Crane, yang adalah perangkat berat andalan, memegang peranan penting dalam penanganan material berat, termasuk beton, baja, dan komponen besar lainnya. Tugas yang butuh presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang dapat diandalkan.

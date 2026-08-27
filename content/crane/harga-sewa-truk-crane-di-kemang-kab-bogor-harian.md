@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kemang Kab Bogor Harian"
-date: "2023-06-11"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kemang Kab Bogor Harian
+date: '2023-06-11'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah dasar utama pembangunan di beragam sektor, seperti gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu perangkat berat yang sangat penting dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan keamanan yang tinggi.

@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Ciomas Kab Bogor"
-date: "2023-11-13"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Ciomas Kab Bogor
+date: '2023-11-13'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi tulang punggung pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu perangkat berat yang memegang peran vital dalam dunia konstruksi adalah crane. Alat ini memungkinkan pengangkatan material berat dengan akurasi, efisiensi, dan tingkat keamanan yang tinggi.

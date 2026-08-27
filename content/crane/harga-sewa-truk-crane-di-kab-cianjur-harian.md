@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kab Cianjur Harian"
-date: "2023-04-28"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kab Cianjur Harian
+date: '2023-04-28'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada perangkat yang digunakan. Crane, sebagai perangkat berat andalan, merupakan tulang punggung pengangkatan material berat, seperti beton, baja, dan material besar lainnya. Tugas yang butuh presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang dapat diandalkan.

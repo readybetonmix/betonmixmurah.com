@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Babakan Madang Kab Bogor"
-date: "2023-09-16"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Babakan Madang Kab Bogor
+date: '2023-09-16'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan tulang punggung pembangunan di berbagai sektor, mulai dari gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu perangkat berat yang sangat krusial dalam dunia konstruksi adalah crane. Perangkat ini mengizinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan keamanan yang tinggi.

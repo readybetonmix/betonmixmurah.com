@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Rumpin Kab Bogor Harian"
-date: "2023-05-21"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Rumpin Kab Bogor Harian
+date: '2023-05-21'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi faktor penentu keberhasilan sebuah proyek. Sebagai perangkat berat utama, crane berperan sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa crane yang handal, tugas yang membutuhkan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan.

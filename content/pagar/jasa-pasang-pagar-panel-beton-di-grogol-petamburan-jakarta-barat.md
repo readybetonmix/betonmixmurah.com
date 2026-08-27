@@ -1,7 +1,8 @@
 ---
-title: "Jasa Pasang Pagar Panel Beton di Grogol Petamburan Jakarta Barat"
-date: "2023-08-29"
-categories: "[pagar]"
+title: Jasa Pasang Pagar Panel Beton di Grogol Petamburan Jakarta Barat
+date: '2023-08-29'
+categories: '[pagar]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Tahukah Anda bahwa pagar beton saat ini menjadi salah satu solusi yang paling disukai untuk memperbaiki keamanan dan estetika properti? Saat ini, banyak pemilik properti di Grogol Petamburan Jakarta Barat yang menggunakan pagar panel beton karena kombinasi antara kekuatan, kekokohan, dan tampilan yang dapat diubah.  

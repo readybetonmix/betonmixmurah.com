@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Ciracas Jakarta Timur"
-date: "2023-03-27"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Ciracas Jakarta Timur
+date: '2023-03-27'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di area Ciracas Jakarta Timur? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepat pekerjaan dan memastikan hasil yang maksimal. Crane bukan hanya alat berat, tetapi juga jawaban untuk beraneka tantangan yang dihadapi dalam konstruksi masa kini.

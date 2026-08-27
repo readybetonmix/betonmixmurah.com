@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cibitung Kab Bekasi"
-date: "2023-01-26"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cibitung Kab Bekasi
+date: '2023-01-26'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di wilayah Cibitung Kab Bekasi? Jika ya, maka Anda pasti memahami betapa pentingnya crane dalam mempercepatkan pekerjaan dan menjamin hasil yang optimal. Crane bukan hanya alat berat; ia adalah solusi untuk berbagai tantangan dalam konstruksi modern.

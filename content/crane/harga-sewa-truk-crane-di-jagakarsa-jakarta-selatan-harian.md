@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Jagakarsa Jakarta Selatan Harian"
-date: "2023-05-15"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Jagakarsa Jakarta Selatan Harian
+date: '2023-05-15'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali bergantung pada perangkat yang digunakan. Crane, yang adalah perangkat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan komponen besar lainnya. Tanpa crane yang dapat diandalkan, tugas yang membutuhkan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

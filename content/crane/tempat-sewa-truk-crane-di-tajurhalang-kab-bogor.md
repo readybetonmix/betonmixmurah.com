@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Tajurhalang Kab Bogor"
-date: "2023-04-30"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Tajurhalang Kab Bogor
+date: '2023-04-30'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting pembangunan di berbagai sektor, mulai dari gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane merupakan salah satu perangkat berat yang berperan penting dalam industri konstruksi. Alat ini memungkinkan pengangkatan material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

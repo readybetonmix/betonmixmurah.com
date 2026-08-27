@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Neglasari Kota Tangerang Harian"
-date: "2023-10-15"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Neglasari Kota Tangerang Harian
+date: '2023-10-15'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada perangkat yang digunakan. Sebagai alat berat utama, crane berfungsi sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa adanya crane yang dapat diandalkan, tugas yang memerlukan level presisi tinggi dan efisiensi waktu akan sulit dilakukan.

@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kemayoran Jakarta Pusat"
-date: "2023-09-11"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kemayoran Jakarta Pusat
+date: '2023-09-11'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di beragam sektor, mulai dari gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang sangat krusial dalam dunia konstruksi adalah crane. Alat ini memungkinkan pengangkatan material berat dengan presisi, efisiensi, dan keamanan yang tinggi.

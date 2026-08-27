@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Citeureup Kab Bogor Harian"
-date: "2023-09-05"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Citeureup Kab Bogor Harian
+date: '2023-09-05'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, keberhasilan sebuah proyek sering kali ditentukan pada perangkat yang digunakan. Crane, sebagai alat berat andalan, merupakan tulang punggung pengangkatan material berat, seperti beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang butuh level presisi tinggi dan efisiensi waktu akan menjadi tantangan.

@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Jakarta Pusat"
-date: "2023-10-25"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Jakarta Pusat
+date: '2023-10-25'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di area Jakarta Pusat? Jika jawabannya ya, Anda tentu memahami seberapa penting crane dalam mempercepatkan pekerjaan dan menjamin hasil yang maksimal. Crane bukan sekadar alat berat, melainkan solusi untuk berbagai tantangan konstruksi modern.

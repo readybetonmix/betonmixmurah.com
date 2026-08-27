@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Tambora Jakarta Barat"
-date: "2023-08-14"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Tambora Jakarta Barat
+date: '2023-08-14'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali bergantung pada perangkat yang digunakan. Crane, sebagai alat berat andalan, menjadi tulang punggung penanganan material berat, seperti beton, baja, dan material besar lainnya. Pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang handal.

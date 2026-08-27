@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Mekar Baru Kab Tangerang Harian"
-date: "2023-12-27"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Mekar Baru Kab Tangerang Harian
+date: '2023-12-27'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali bergantung pada alat yang digunakan. Crane, yang merupakan perangkat berat andalan, memegang peranan penting dalam penanganan material berat, termasuk beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang butuh tingkat presisi tinggi dan efisiensi waktu akan menjadi tantangan.

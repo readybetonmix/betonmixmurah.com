@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kelapa Gading Jakarta Utara Harian"
-date: "2023-06-18"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kelapa Gading Jakarta Utara Harian
+date: '2023-06-18'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di area Kelapa Gading Jakarta Utara? Jika demikian, Anda pasti menyadari betapa pentingnya crane untuk mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan hanya perangkat berat, tetapi juga solusi untuk beraneka tantangan yang ditemui dalam konstruksi modern.

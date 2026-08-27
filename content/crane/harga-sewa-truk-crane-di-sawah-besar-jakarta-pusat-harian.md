@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Sawah Besar Jakarta Pusat Harian"
-date: "2023-03-17"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Sawah Besar Jakarta Pusat Harian
+date: '2023-03-17'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali bergantung pada perangkat yang digunakan. Crane, sebagai alat berat andalan, merupakan tulang punggung penanganan material berat, seperti beton, baja, dan material besar lainnya. Tanpa crane yang handal, pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

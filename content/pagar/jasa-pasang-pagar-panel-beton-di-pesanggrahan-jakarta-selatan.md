@@ -1,7 +1,8 @@
 ---
-title: "Jasa Pasang Pagar Panel Beton di Pesanggrahan Jakarta Selatan"
-date: "2023-07-09"
-categories: "[pagar]"
+title: Jasa Pasang Pagar Panel Beton di Pesanggrahan Jakarta Selatan
+date: '2023-07-09'
+categories: '[pagar]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Tahukah Anda bahwa pagar panel beton kini menjadi salah satu solusi favorit untuk meningkatkan keamanan dan estetika properti? Di era modern ini, banyak pemilik properti di Pesanggrahan Jakarta Selatan yang menggunakan pagar beton karena gabungan ketahanan, kekokohan, dan tampilan yang dapat disesuaikan.  

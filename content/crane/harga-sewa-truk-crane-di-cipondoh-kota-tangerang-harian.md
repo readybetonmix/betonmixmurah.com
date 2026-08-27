@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cipondoh Kota Tangerang Harian"
-date: "2023-12-10"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cipondoh Kota Tangerang Harian
+date: '2023-12-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan pilar penting dalam pembangunan beragam sektor, mulai dari gedung perkantoran hingga infrastruktur jalan raya. Crane adalah salah satu alat berat yang berperan penting dalam industri konstruksi. Alat ini mengizinkan pengangkatan material berat dengan akurasi, efisiensi, dan keamanan yang tinggi.

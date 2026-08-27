@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Sumur Bandung Kota Bandung"
-date: "2023-09-19"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Sumur Bandung Kota Bandung
+date: '2023-09-19'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada perangkat yang digunakan. Crane, yang merupakan perangkat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan komponen besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang handal.

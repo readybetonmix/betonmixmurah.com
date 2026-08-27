@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Tambelang Kab Bekasi"
-date: "2023-07-17"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Tambelang Kab Bekasi
+date: '2023-07-17'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi penentu keberhasilan suatu proyek. Crane, sebagai perangkat berat andalan, menjadi tulang punggung pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang handal.

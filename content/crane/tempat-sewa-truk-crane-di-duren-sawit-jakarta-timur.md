@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Duren Sawit Jakarta Timur"
-date: "2023-08-11"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Duren Sawit Jakarta Timur
+date: '2023-08-11'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di area Duren Sawit Jakarta Timur? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan solusi untuk beraneka tantangan konstruksi masa kini.

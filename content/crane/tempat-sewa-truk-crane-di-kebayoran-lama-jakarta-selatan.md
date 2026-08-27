@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kebayoran Lama Jakarta Selatan"
-date: "2023-12-29"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kebayoran Lama Jakarta Selatan
+date: '2023-12-29'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan pilar penting dalam pembangunan berbagai sektor, mulai dari gedung perkantoran dan infrastruktur jalan raya. Salah satu perangkat berat yang sangat penting dalam dunia konstruksi adalah crane. Alat ini mengizinkan untuk mengangkat material berat dengan akurasi, efisiensi, dan standar keamanan yang tinggi.

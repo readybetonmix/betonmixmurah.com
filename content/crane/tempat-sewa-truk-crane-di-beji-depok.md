@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Beji Depok"
-date: "2023-12-27"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Beji Depok
+date: '2023-12-27'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi besar di daerah Beji Depok? Jika demikian, Anda pasti menyadari betapa pentingnya crane untuk mempercepatkan pekerjaan dan menjamin hasil yang optimal. Crane bukan hanya alat berat, tetapi juga jawaban untuk berbagai tantangan yang dihadapi dalam konstruksi modern.

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kemayoran Jakarta Pusat Harian"
-date: "2023-11-28"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kemayoran Jakarta Pusat Harian
+date: '2023-11-28'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, keberhasilan sebuah proyek sering kali bergantung pada perangkat yang digunakan. Sebagai perangkat berat utama, crane berperan sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tugas yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang dapat diandalkan.

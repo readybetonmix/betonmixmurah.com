@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Mampang Prapatan Jakarta Selatan"
-date: "2023-08-28"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Mampang Prapatan Jakarta Selatan
+date: '2023-08-28'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi tulang punggung pembangunan di berbagai sektor, termasuk gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Crane merupakan salah satu perangkat berat yang memegang penting dalam industri konstruksi. Alat ini memungkinkan pengangkatan material berat dengan presisi, efisiensi, dan keamanan yang tinggi.

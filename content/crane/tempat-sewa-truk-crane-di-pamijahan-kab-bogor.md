@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Pamijahan Kab Bogor"
-date: "2023-06-20"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Pamijahan Kab Bogor
+date: '2023-06-20'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan berbagai sektor, termasuk gedung perkantoran dan infrastruktur jalan raya. Crane adalah salah satu perangkat berat yang berperan penting dalam industri konstruksi. Alat ini memungkinkan pengangkatan material berat dengan akurasi, efisiensi, dan tingkat keamanan yang tinggi.

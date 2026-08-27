@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Bojonggede Kab Bogor"
-date: "2023-02-15"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Bojonggede Kab Bogor
+date: '2023-02-15'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di area Bojonggede Kab Bogor? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepat pekerjaan dan memastikan hasil yang optimal. Crane bukan hanya perangkat berat, tetapi juga solusi untuk beraneka tantangan yang ditemui dalam konstruksi modern.

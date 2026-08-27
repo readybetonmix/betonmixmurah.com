@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Citayam"
-date: "2023-10-31"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Citayam
+date: '2023-10-31'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di wilayah Citayam? Jika demikian, Anda pasti menyadari betapa pentingnya crane untuk mempercepatkan pekerjaan dan menjamin hasil yang optimal. Crane bukan hanya perangkat berat, tetapi juga solusi untuk berbagai tantangan yang ditemui dalam konstruksi masa kini.

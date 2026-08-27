@@ -1,7 +1,8 @@
 ---
-title: "Jasa Pasang Pagar Panel Beton di Bekasi"
-date: "2023-02-07"
-categories: "[pagar]"
+title: Jasa Pasang Pagar Panel Beton di Bekasi
+date: '2023-02-07'
+categories: '[pagar]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Tahukah Anda bahwa pagar beton kini menjadi salah satu solusi favorit untuk memperbaiki keamanan dan estetika properti? Di era modern ini, banyak pemilik properti di Bekasi yang memilih pagar beton karena gabungan kekuatan, daya tahan, dan tampilan yang dapat disesuaikan.  

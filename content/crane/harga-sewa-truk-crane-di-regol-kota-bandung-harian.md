@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Regol Kota Bandung Harian"
-date: "2023-06-16"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Regol Kota Bandung Harian
+date: '2023-06-16'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi besar di wilayah Regol Kota Bandung? Jika jawabannya ya, Anda tentu memahami seberapa penting crane dalam mempercepat pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk beraneka tantangan konstruksi modern.

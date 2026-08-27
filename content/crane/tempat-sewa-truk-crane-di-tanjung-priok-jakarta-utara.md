@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Tanjung Priok Jakarta Utara"
-date: "2023-07-08"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Tanjung Priok Jakarta Utara
+date: '2023-07-08'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan berbagai sektor, termasuk gedung perkantoran hingga infrastruktur jalan raya. Crane merupakan salah satu perangkat berat yang memegang penting dalam industri konstruksi. Alat ini mengizinkan pengangkatan material berat dengan akurasi, efisiensi, dan keamanan yang tinggi.

@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Teluknaga Kab Tangerang"
-date: "2023-08-10"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Teluknaga Kab Tangerang
+date: '2023-08-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di area Kecamatan Teluknaga Kab Tangerang? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepat pekerjaan dan menjamin hasil yang maksimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi modern.

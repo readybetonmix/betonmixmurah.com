@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Jakarta Selatan Harian"
-date: "2023-10-10"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Jakarta Selatan Harian
+date: '2023-10-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan tulang punggung pembangunan di beragam sektor, mulai dari gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Crane merupakan salah satu perangkat berat yang berperan penting dalam industri konstruksi. Alat ini memungkinkan pengangkatan material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

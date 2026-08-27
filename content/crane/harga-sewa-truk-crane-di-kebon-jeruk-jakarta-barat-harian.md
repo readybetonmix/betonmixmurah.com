@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kebon Jeruk Jakarta Barat Harian"
-date: "2023-06-02"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kebon Jeruk Jakarta Barat Harian
+date: '2023-06-02'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi penentu keberhasilan sebuah proyek. Crane, sebagai perangkat berat andalan, merupakan tulang punggung penanganan material berat, seperti beton, baja, dan material besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang dapat diandalkan.

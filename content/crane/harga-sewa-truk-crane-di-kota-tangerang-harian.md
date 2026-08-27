@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kota Tangerang Harian"
-date: "2023-02-08"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kota Tangerang Harian
+date: '2023-02-08'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi faktor penentu keberhasilan sebuah proyek. Crane, sebagai perangkat berat andalan, merupakan tulang punggung penanganan material berat, seperti beton, baja, dan komponen besar lainnya. Tugas yang memerlukan presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang dapat diandalkan.

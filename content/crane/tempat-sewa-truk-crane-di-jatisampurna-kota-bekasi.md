@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Jatisampurna Kota Bekasi"
-date: "2023-05-21"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Jatisampurna Kota Bekasi
+date: '2023-05-21'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di wilayah Jatisampurna Kota Bekasi? Jika ya, maka Anda pasti memahami betapa pentingnya crane dalam mempercepat pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan solusi untuk berbagai tantangan konstruksi masa kini.

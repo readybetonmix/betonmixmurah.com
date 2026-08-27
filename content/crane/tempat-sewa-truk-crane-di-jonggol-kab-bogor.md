@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Jonggol Kab Bogor"
-date: "2023-08-02"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Jonggol Kab Bogor
+date: '2023-08-02'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi signifikan di daerah Jonggol Kab Bogor? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepatkan pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk beraneka tantangan konstruksi modern.

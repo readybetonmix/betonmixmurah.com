@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kebayoran Lama Jakarta Selatan Harian"
-date: "2023-06-24"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kebayoran Lama Jakarta Selatan Harian
+date: '2023-06-24'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi faktor penentu keberhasilan suatu proyek. Sebagai alat berat utama, crane berfungsi sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa crane yang handal, pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

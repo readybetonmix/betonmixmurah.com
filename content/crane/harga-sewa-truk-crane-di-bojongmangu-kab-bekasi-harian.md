@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Bojongmangu Kab Bekasi Harian"
-date: "2023-04-02"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Bojongmangu Kab Bekasi Harian
+date: '2023-04-02'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan fondasi utama pembangunan di berbagai sektor, seperti gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane merupakan salah satu perangkat berat yang berperan penting dalam industri konstruksi. Alat ini memungkinkan pengangkatan material berat dengan presisi, efisiensi, dan keamanan yang tinggi.

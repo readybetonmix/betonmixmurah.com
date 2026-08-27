@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Pancoran Jakarta Selatan"
-date: "2023-06-15"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Pancoran Jakarta Selatan
+date: '2023-06-15'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di berbagai sektor, termasuk gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu perangkat berat yang sangat krusial dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan keamanan yang tinggi.

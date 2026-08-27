@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Pulo Gadung Jakarta Timur"
-date: "2023-10-24"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Pulo Gadung Jakarta Timur
+date: '2023-10-24'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi faktor penentu keberhasilan suatu proyek. Sebagai perangkat berat utama, crane berperan sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa crane yang handal, pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan.

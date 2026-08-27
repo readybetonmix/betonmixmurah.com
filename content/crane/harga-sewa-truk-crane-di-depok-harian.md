@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Depok Harian"
-date: "2023-11-08"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Depok Harian
+date: '2023-11-08'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi penentu keberhasilan suatu proyek. Sebagai perangkat berat utama, crane berfungsi sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang memerlukan level presisi tinggi dan efisiensi waktu akan menjadi tantangan.

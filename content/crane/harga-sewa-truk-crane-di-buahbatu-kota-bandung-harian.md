@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Buahbatu Kota Bandung Harian"
-date: "2023-10-08"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Buahbatu Kota Bandung Harian
+date: '2023-10-08'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan beragam sektor, termasuk gedung perkantoran hingga infrastruktur jalan raya. Salah satu perangkat berat yang sangat krusial dalam dunia konstruksi adalah crane. Alat ini mengizinkan pengangkatan material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

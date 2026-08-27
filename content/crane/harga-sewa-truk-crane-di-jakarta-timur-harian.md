@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Jakarta Timur Harian"
-date: "2023-12-26"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Jakarta Timur Harian
+date: '2023-12-26'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada alat yang digunakan. Crane, sebagai alat berat andalan, merupakan tulang punggung penanganan material berat, seperti beton, baja, dan material besar lainnya. Tugas yang butuh presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang dapat diandalkan.

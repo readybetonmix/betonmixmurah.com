@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Ujung Berung Kota Bandung Harian"
-date: "2023-06-30"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Ujung Berung Kota Bandung Harian
+date: '2023-06-30'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali bergantung pada alat yang digunakan. Crane, yang merupakan perangkat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan komponen besar lainnya. Tanpa crane yang dapat diandalkan, pekerjaan yang membutuhkan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

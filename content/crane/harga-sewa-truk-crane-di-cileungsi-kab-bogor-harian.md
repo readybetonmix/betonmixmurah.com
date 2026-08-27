@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cileungsi Kab Bogor Harian"
-date: "2023-04-21"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cileungsi Kab Bogor Harian
+date: '2023-04-21'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu perangkat berat yang memiliki peran vital dalam dunia konstruksi adalah crane. Perangkat ini mengizinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan proteksi yang tinggi.

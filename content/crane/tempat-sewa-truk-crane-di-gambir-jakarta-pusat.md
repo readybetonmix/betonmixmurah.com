@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Gambir Jakarta Pusat"
-date: "2023-09-17"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Gambir Jakarta Pusat
+date: '2023-09-17'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi penentu keberhasilan sebuah proyek. Crane, yang merupakan perangkat berat andalan, berperan penting dalam pengangkatan material berat, termasuk beton, baja, dan komponen besar lainnya. Tugas yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang dapat diandalkan.

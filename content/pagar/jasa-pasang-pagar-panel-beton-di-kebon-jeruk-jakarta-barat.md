@@ -1,7 +1,8 @@
 ---
-title: "Jasa Pasang Pagar Panel Beton di Kebon Jeruk Jakarta Barat"
-date: "2023-08-23"
-categories: "[pagar]"
+title: Jasa Pasang Pagar Panel Beton di Kebon Jeruk Jakarta Barat
+date: '2023-08-23'
+categories: '[pagar]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Saat mendesain properti, penting untuk tidak melupakan aspek safety. Namun, mengapa hanya memusatkan perhatian pada keamanan jika Anda juga bisa mendapatkan estetika dalam satu paket? **Pagar panel beton** menjadi solusi ideal untuk menjawab kebutuhan tersebut. Produk ini menawarkan keamanan maksimal sekaligus desain yang estetis dan indah.  

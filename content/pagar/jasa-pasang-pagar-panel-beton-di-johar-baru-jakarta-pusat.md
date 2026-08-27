@@ -1,7 +1,8 @@
 ---
-title: "Jasa Pasang Pagar Panel Beton di Johar Baru Jakarta Pusat"
-date: "2023-07-16"
-categories: "[pagar]"
+title: Jasa Pasang Pagar Panel Beton di Johar Baru Jakarta Pusat
+date: '2023-07-16'
+categories: '[pagar]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Saat mendesain properti, penting untuk tidak melupakan aspek safety. Tetapi, mengapa hanya memikirkan safety jika Anda juga bisa mendapatkan keindahan dalam satu kesatuan? **Pagar panel beton** menjadi solusi ideal untuk menjawab permintaan tersebut. Produk ini menawarkan keamanan maksimal sekaligus tampilan yang estetis dan elegan.  

@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Sepatan Timur Kab Tangerang"
-date: "2023-01-19"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Sepatan Timur Kab Tangerang
+date: '2023-01-19'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di wilayah Kecamatan Sepatan Timur Kab Tangerang? Jika ya, maka Anda pasti memahami betapa pentingnya crane dalam mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan sekadar alat berat, melainkan solusi untuk beraneka tantangan konstruksi modern.

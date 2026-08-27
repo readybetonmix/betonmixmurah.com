@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cinambo Kota Bandung Harian"
-date: "2023-11-28"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cinambo Kota Bandung Harian
+date: '2023-11-28'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan fondasi utama pembangunan di berbagai sektor, seperti gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu perangkat berat yang memiliki peran penting dalam dunia konstruksi adalah crane. Alat ini mengizinkan pengangkatan material berat dengan akurasi, efisiensi, dan tingkat keamanan yang tinggi.

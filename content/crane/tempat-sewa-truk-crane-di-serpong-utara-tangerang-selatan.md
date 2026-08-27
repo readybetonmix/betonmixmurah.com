@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Serpong Utara Tangerang Selatan"
-date: "2023-04-15"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Serpong Utara Tangerang Selatan
+date: '2023-04-15'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan tulang punggung pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane adalah salah satu alat berat yang memegang penting dalam industri konstruksi. Alat ini mengizinkan untuk mengangkat material berat dengan presisi, efisiensi, dan standar keamanan yang tinggi.

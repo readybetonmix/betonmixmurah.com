@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Dramaga Kab Bogor"
-date: "2023-07-10"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Dramaga Kab Bogor
+date: '2023-07-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada alat yang digunakan. Crane, yang adalah perangkat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, tugas yang butuh tingkat presisi tinggi dan efisiensi waktu akan sulit dilakukan.

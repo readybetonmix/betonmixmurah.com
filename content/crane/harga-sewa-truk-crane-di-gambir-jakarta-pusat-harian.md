@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Gambir Jakarta Pusat Harian"
-date: "2023-03-18"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Gambir Jakarta Pusat Harian
+date: '2023-03-18'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang memiliki peran vital dalam dunia konstruksi adalah crane. Perangkat ini mengizinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan proteksi yang tinggi.

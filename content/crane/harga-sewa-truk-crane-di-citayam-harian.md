@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Citayam Harian"
-date: "2023-05-31"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Citayam Harian
+date: '2023-05-31'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi signifikan di wilayah Citayam? Jika ya, maka Anda pasti menyadari betapa pentingnya crane dalam mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan sekadar alat berat, melainkan solusi untuk beraneka tantangan konstruksi modern.

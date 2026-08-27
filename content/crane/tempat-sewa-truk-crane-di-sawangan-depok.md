@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Sawangan Depok"
-date: "2023-02-26"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Sawangan Depok
+date: '2023-02-26'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada alat yang digunakan. Crane, sebagai perangkat berat andalan, merupakan tulang punggung penanganan material berat, seperti beton, baja, dan material besar lainnya. Pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang handal.

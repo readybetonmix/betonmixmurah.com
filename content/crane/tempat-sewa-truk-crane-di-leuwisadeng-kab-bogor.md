@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Leuwisadeng Kab Bogor"
-date: "2023-08-03"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Leuwisadeng Kab Bogor
+date: '2023-08-03'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting pembangunan di beragam sektor, mulai dari gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane adalah salah satu alat berat yang memegang penting dalam industri konstruksi. Alat ini mengizinkan untuk mengangkat material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

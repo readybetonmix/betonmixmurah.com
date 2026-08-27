@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Neglasari Kota Tangerang"
-date: "2023-09-10"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Neglasari Kota Tangerang
+date: '2023-09-10'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi fondasi utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane adalah salah satu alat berat yang berperan penting dalam industri konstruksi. Alat ini memungkinkan untuk mengangkat material berat dengan presisi, efisiensi, dan tingkat keamanan yang tinggi.

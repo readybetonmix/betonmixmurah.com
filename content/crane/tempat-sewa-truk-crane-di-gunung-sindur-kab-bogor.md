@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Gunung Sindur Kab Bogor"
-date: "2023-05-16"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Gunung Sindur Kab Bogor
+date: '2023-05-16'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi pilar penting dalam pembangunan berbagai sektor, mulai dari gedung perkantoran dan infrastruktur jalan raya. Crane adalah salah satu alat berat yang berperan penting dalam industri konstruksi. Alat ini mengizinkan untuk mengangkat material berat dengan akurasi, efisiensi, dan tingkat keamanan yang tinggi.

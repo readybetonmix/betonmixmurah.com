@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Babakan Ciparay Kota Bandung Harian"
-date: "2023-03-16"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Babakan Ciparay Kota Bandung Harian
+date: '2023-03-16'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali bergantung pada perangkat yang digunakan. Crane, yang merupakan perangkat berat andalan, berperan penting dalam pengangkatan material berat, termasuk beton, baja, dan komponen besar lainnya. Tanpa crane yang handal, tugas yang memerlukan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan.

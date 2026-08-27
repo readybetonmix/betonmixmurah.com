@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Pesanggrahan Jakarta Selatan Harian"
-date: "2023-06-23"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Pesanggrahan Jakarta Selatan Harian
+date: '2023-06-23'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi besar di wilayah Pesanggrahan Jakarta Selatan? Jika jawabannya ya, Anda tentu memahami seberapa penting crane dalam mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane lebih dari sekadar alat berat; ia adalah solusi untuk berbagai tantangan dalam konstruksi masa kini.

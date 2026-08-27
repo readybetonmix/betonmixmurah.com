@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cibiru Kota Bandung Harian"
-date: "2023-04-22"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cibiru Kota Bandung Harian
+date: '2023-04-22'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada alat yang digunakan. Crane, sebagai alat berat andalan, menjadi tulang punggung pengangkatan material berat, seperti beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, pekerjaan yang butuh tingkat presisi tinggi dan efisiensi waktu akan sulit dilakukan.

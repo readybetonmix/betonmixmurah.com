@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Panyileukan Kota Bandung"
-date: "2023-09-27"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Panyileukan Kota Bandung
+date: '2023-09-27'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda tengah mengerjakan proyek konstruksi besar di area Panyileukan Kota Bandung? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepat pekerjaan dan menjamin hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk berbagai tantangan konstruksi modern.

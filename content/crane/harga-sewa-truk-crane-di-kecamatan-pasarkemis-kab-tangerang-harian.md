@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Pasarkemis Kab Tangerang Harian"
-date: "2023-06-29"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Pasarkemis Kab Tangerang Harian
+date: '2023-06-29'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi penentu keberhasilan sebuah proyek. Crane, yang merupakan alat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan komponen besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang dapat diandalkan.

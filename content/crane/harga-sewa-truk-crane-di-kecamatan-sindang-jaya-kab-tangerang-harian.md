@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Kecamatan Sindang Jaya Kab Tangerang Harian"
-date: "2023-10-11"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Kecamatan Sindang Jaya Kab Tangerang Harian
+date: '2023-10-11'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah fondasi utama pembangunan di beragam sektor, mulai dari gedung perkantoran, jembatan, dan infrastruktur jalan raya. Crane adalah salah satu perangkat berat yang berperan penting dalam industri konstruksi. Alat ini mengizinkan untuk mengangkat material berat dengan akurasi, efisiensi, dan standar keamanan yang tinggi.

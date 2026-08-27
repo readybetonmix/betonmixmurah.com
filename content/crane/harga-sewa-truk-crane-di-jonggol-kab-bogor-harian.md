@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Jonggol Kab Bogor Harian"
-date: "2023-01-27"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Jonggol Kab Bogor Harian
+date: '2023-01-27'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada perangkat yang digunakan. Crane, yang adalah alat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan material besar lainnya. Tanpa crane yang dapat diandalkan, pekerjaan yang membutuhkan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

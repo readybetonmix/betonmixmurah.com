@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Sukabumi Harian"
-date: "2023-07-27"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Sukabumi Harian
+date: '2023-07-27'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, keberhasilan sebuah proyek sering kali ditentukan pada alat yang digunakan. Crane, yang merupakan perangkat berat andalan, memegang peranan penting dalam pengangkatan material berat, termasuk beton, baja, dan material besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang handal.

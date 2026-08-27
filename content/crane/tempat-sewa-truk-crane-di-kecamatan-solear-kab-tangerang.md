@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Solear Kab Tangerang"
-date: "2023-12-16"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Solear Kab Tangerang
+date: '2023-12-16'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, kesuksesan sebuah proyek sering kali ditentukan pada alat yang digunakan. Sebagai alat berat utama, crane berfungsi sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan material besar lainnya. Tanpa adanya crane yang dapat diandalkan, tugas yang memerlukan tingkat presisi tinggi dan efisiensi waktu akan sulit dilakukan.

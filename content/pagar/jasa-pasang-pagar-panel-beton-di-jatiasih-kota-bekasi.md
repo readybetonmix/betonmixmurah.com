@@ -1,7 +1,8 @@
 ---
-title: "Jasa Pasang Pagar Panel Beton di Jatiasih Kota Bekasi"
-date: "2023-05-16"
-categories: "[pagar]"
+title: Jasa Pasang Pagar Panel Beton di Jatiasih Kota Bekasi
+date: '2023-05-16'
+categories: '[pagar]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam merancang properti, safety tidak bisa diabaikan. Namun, mengapa hanya memusatkan perhatian pada safety jika Anda juga bisa mendapatkan estetika dalam satu paket? **Pagar panel beton** adalah jawaban sempurna untuk memenuhi permintaan tersebut. Produk ini menawarkan keamanan maksimal sekaligus desain yang estetis dan elegan.  

@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Lengkong Kota Bandung Harian"
-date: "2023-04-17"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Lengkong Kota Bandung Harian
+date: '2023-04-17'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi faktor penentu keberhasilan sebuah proyek. Crane, yang adalah perangkat berat andalan, berperan penting dalam penanganan material berat, termasuk beton, baja, dan material besar lainnya. Tanpa crane yang handal, tugas yang membutuhkan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

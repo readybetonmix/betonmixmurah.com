@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Bandung"
-date: "2023-03-02"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Bandung
+date: '2023-03-02'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, perangkat yang digunakan sering kali menjadi faktor penentu keberhasilan suatu proyek. Sebagai alat berat utama, crane berfungsi sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan material besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang handal.

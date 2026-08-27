@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cibodas Kota Tangerang"
-date: "2023-03-05"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cibodas Kota Tangerang
+date: '2023-03-05'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Di dunia konstruksi, alat yang digunakan sering kali menjadi faktor penentu keberhasilan sebuah proyek. Crane, sebagai alat berat andalan, menjadi tulang punggung pengangkatan material berat, seperti beton, baja, dan material besar lainnya. Tanpa crane yang dapat diandalkan, tugas yang membutuhkan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

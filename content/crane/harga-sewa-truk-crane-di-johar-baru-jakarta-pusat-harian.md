@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Johar Baru Jakarta Pusat Harian"
-date: "2023-01-31"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Johar Baru Jakarta Pusat Harian
+date: '2023-01-31'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di area Johar Baru Jakarta Pusat? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepatkan pekerjaan dan memastikan hasil yang maksimal. Crane bukan hanya perangkat berat, tetapi juga jawaban untuk beraneka tantangan yang ditemui dalam konstruksi modern.

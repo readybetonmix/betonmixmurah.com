@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Makasar Jakarta Timur Harian"
-date: "2023-11-22"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Makasar Jakarta Timur Harian
+date: '2023-11-22'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah pilar penting pembangunan di berbagai sektor, mulai dari gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu alat berat yang sangat krusial dalam dunia konstruksi adalah crane. Alat ini memungkinkan pengangkatan material berat dengan akurasi, efisiensi, dan tingkat keamanan yang tinggi.

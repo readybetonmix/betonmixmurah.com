@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Tangerang"
-date: "2023-10-30"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Tangerang
+date: '2023-10-30'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali bergantung pada alat yang digunakan. Crane, sebagai perangkat berat andalan, menjadi tulang punggung pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa adanya crane yang dapat diandalkan, tugas yang memerlukan tingkat presisi tinggi dan efisiensi waktu akan menjadi tantangan.

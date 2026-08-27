@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Jatisampurna Kota Bekasi Harian"
-date: "2023-01-07"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Jatisampurna Kota Bekasi Harian
+date: '2023-01-07'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan fondasi utama pembangunan di berbagai sektor, mulai dari gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Salah satu alat berat yang memegang peran krusial dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan keamanan yang tinggi.

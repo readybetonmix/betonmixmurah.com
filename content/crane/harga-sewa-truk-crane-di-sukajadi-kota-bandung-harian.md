@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Sukajadi Kota Bandung Harian"
-date: "2023-07-22"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Sukajadi Kota Bandung Harian
+date: '2023-07-22'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan fondasi utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, hingga infrastruktur jalan raya. Crane adalah salah satu alat berat yang memegang penting dalam industri konstruksi. Perangkat ini mengizinkan pengangkatan material berat dengan tingkat akurasi, efisiensi, dan keamanan yang tinggi.

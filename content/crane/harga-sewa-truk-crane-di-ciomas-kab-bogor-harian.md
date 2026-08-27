@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Ciomas Kab Bogor Harian"
-date: "2023-09-18"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Ciomas Kab Bogor Harian
+date: '2023-09-18'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Dalam dunia konstruksi, keberhasilan sebuah proyek sering kali ditentukan pada perangkat yang digunakan. Sebagai alat berat utama, crane berfungsi sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa crane yang handal, pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan sulit dilakukan.

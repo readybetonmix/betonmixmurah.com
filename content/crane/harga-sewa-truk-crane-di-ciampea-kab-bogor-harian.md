@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Ciampea Kab Bogor Harian"
-date: "2023-06-15"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Ciampea Kab Bogor Harian
+date: '2023-06-15'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi merupakan pilar penting dalam pembangunan beragam sektor, termasuk gedung perkantoran dan infrastruktur jalan raya. Salah satu alat berat yang sangat krusial dalam dunia konstruksi adalah crane. Alat ini memungkinkan untuk mengangkat material berat dengan akurasi, efisiensi, dan standar keamanan yang tinggi.

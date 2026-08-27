@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Tanjungsari Kab Bogor"
-date: "2023-11-11"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Tanjungsari Kab Bogor
+date: '2023-11-11'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang melaksanakan proyek konstruksi signifikan di daerah Tanjungsari Kab Bogor? Jika jawabannya ya, Anda tentu menyadari seberapa penting crane dalam mempercepat pekerjaan dan memastikan hasil yang optimal. Crane bukan hanya alat berat; ia adalah jawaban untuk beraneka tantangan dalam konstruksi masa kini.

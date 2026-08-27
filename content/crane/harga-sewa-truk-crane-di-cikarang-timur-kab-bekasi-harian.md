@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Cikarang Timur Kab Bekasi Harian"
-date: "2023-01-13"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Cikarang Timur Kab Bekasi Harian
+date: '2023-01-13'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi besar di daerah Cikarang Timur Kab Bekasi? Jika demikian, Anda pasti memahami betapa pentingnya crane untuk mempercepat pekerjaan dan memastikan hasil yang maksimal. Crane bukan hanya perangkat berat, tetapi juga jawaban untuk berbagai tantangan yang dihadapi dalam konstruksi modern.

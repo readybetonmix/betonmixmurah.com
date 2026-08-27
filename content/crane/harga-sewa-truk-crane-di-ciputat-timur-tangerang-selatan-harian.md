@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Ciputat Timur Tangerang Selatan Harian"
-date: "2023-11-29"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Ciputat Timur Tangerang Selatan Harian
+date: '2023-11-29'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi adalah inti utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang sangat krusial dalam dunia konstruksi adalah crane. Perangkat ini memungkinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan proteksi yang tinggi.

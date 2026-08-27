@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Sukawangi Kab Bekasi"
-date: "2023-11-20"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Sukawangi Kab Bekasi
+date: '2023-11-20'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Konstruksi menjadi fondasi utama pembangunan di beragam sektor, termasuk gedung perkantoran, jembatan, dan infrastruktur jalan raya. Salah satu alat berat yang sangat penting dalam dunia konstruksi adalah crane. Perangkat ini mengizinkan pengangkatan material berat dengan tingkat presisi, efisiensi, dan proteksi yang tinggi.

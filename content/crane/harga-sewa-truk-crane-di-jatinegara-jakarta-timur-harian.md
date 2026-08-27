@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Jatinegara Jakarta Timur Harian"
-date: "2023-12-15"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Jatinegara Jakarta Timur Harian
+date: '2023-12-15'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada alat yang digunakan. Sebagai perangkat berat utama, crane berfungsi sebagai tulang punggung dalam penanganan material berat, seperti beton, baja, dan material besar lainnya. Pekerjaan yang butuh presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan tanpa adanya crane yang handal.

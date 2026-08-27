@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Kecamatan Bogor Timur Kota Bogor"
-date: "2023-11-28"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Kecamatan Bogor Timur Kota Bogor
+date: '2023-11-28'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Apakah Anda sedang mengerjakan proyek konstruksi signifikan di area Kecamatan Bogor Timur Kota Bogor? Jika ya, maka Anda pasti memahami betapa pentingnya crane dalam mempercepat pekerjaan dan memastikan hasil yang optimal. Crane bukan sekadar alat berat, melainkan jawaban untuk beraneka tantangan konstruksi masa kini.

@@ -1,7 +1,8 @@
 ---
-title: "Jasa Pasang Pagar Panel Beton di Sawangan Depok"
-date: "2023-03-16"
-categories: "[pagar]"
+title: Jasa Pasang Pagar Panel Beton di Sawangan Depok
+date: '2023-03-16'
+categories: '[pagar]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Tahukah Anda bahwa pagar panel beton kini menjadi salah satu solusi favorit untuk meningkatkan safety dan keindahan properti? Di era modern ini, banyak pemilik properti di Sawangan Depok yang memilih pagar beton karena gabungan kekuatan, daya tahan, dan tampilan yang dapat disesuaikan.  

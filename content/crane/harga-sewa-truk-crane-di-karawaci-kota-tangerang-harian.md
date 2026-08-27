@@ -1,7 +1,8 @@
 ---
-title: "Harga Sewa Truk Crane di Karawaci Kota Tangerang Harian"
-date: "2023-09-13"
-categories: "[crane]"
+title: Harga Sewa Truk Crane di Karawaci Kota Tangerang Harian
+date: '2023-09-13'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada alat yang digunakan. Sebagai alat berat utama, crane berperan sebagai tulang punggung dalam pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Pekerjaan yang memerlukan presisi tinggi dan efisiensi waktu akan sulit dilakukan tanpa adanya crane yang dapat diandalkan.

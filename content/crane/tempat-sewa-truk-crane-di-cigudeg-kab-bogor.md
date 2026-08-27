@@ -1,7 +1,8 @@
 ---
-title: "Tempat Sewa Truk Crane di Cigudeg Kab Bogor"
-date: "2023-05-28"
-categories: "[crane]"
+title: Tempat Sewa Truk Crane di Cigudeg Kab Bogor
+date: '2023-05-28'
+categories: '[crane]'
+lastmod: '2026-08-27'
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi besar di daerah Cigudeg Kab Bogor? Jika jawabannya ya, Anda tentu memahami seberapa penting crane dalam mempercepat pekerjaan dan memastikan hasil yang maksimal. Crane bukan hanya alat berat, tetapi juga solusi untuk beraneka tantangan yang dihadapi dalam konstruksi modern.
