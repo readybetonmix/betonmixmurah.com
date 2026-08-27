@@ -8,5 +8,5 @@ Noindex: /tags/*/page/
 Disallow: /page/
 Noindex: /page/
 
-Sitemap: https://betonmixmurah.com/sitemap.xml
-Sitemap: https://betonmixmurah.com/sitemap.xml.gz
+Sitemap: https://betonmixmurah-com.pages.dev/sitemap.xml
+Sitemap: https://betonmixmurah-com.pages.dev/sitemap.xml.gz
