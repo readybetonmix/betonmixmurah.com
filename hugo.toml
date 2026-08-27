@@ -1,6 +1,6 @@
-baseURL = "https://betonmixmurah.com"
+baseURL = "https://betonmixmurah-com.pages.dev"
 languageCode = "id"
-title = "Betonmixmurah.com | Supplier Pagar Panel Beton dan Sewa Truk Crane Terbaik"
+title = "betonmixmurah-com.pages.dev | Supplier Pagar Panel Beton dan Sewa Truk Crane Terbaik"
 theme = "saeseen-hugo"
 summaryLength = 25
 paginate = 6
@@ -22,7 +22,7 @@ paginate = 6
   featured_image = "/images/admin/featured-image.png"
   author = "Hudoyo P"
   telepon = "//+6281318955453"
-  whatsapp = "//api.whatsapp.com/send?phone=6281318955453&text=*Halo betonmixmurah.com*%20%3A"
+  whatsapp = "//api.whatsapp.com/send?phone=6281318955453&text=*Halo betonmixmurah-com.pages.dev*%20%3A"
   enableWhatApps = true
   enableTelepon = true
   tocMinWordCount = 300
@@ -119,7 +119,7 @@ paginate = 6
 # Informasi Perusahaan
   companyName = "PT. Inti Bangun Bumi"
   aboutUs = "Kami adalah perusahaan yang telah beroperasi selama lebih dari 5 tahun, menyediakan produk pagar panel beton berkualitas tinggi dan layanan sewa truk crane untuk mendukung kebutuhan proyek konstruksi di wilayah Jabodetabek, Jawa Barat, dan Banten. Komitmen kami adalah memberikan solusi terbaik yang efisien dan sesuai kebutuhan pelanggan."
-  companyWeb = "betonmixmurah.com"
+  companyWeb = "betonmixmurah-com.pages.dev"
 
   # Informasi Kontak
   phone = "0813-1895-5453"
@@ -140,14 +140,14 @@ paginate = 6
 
   footer_services_title = "Tentang Kami"
   footer_contact_title = "Hubungi Kami"
-  footer_bottom_text = "@2025 BetonMixMurah.Com"
+  footer_bottom_text = "@2025 betonmixmurah-com.pages.dev"
 
 # Testimonials Section
   testimonials_title = "Testimoni"
   listhome_title = "Produk & Layanan Kami"
 
   [[params.footer_services]]
-  text = "betonmixmurah.com adalah website resmi jasa berpengalaman sebagai supplier pagar panel beton dan layanan sewa truk crane terpercaya di wilayah Jabodetabek, Jawa Barat, dan Banten. Kami berkomitmen untuk menyediakan produk berkualitas tinggi dan layanan yang memenuhi kebutuhan dan harapan pelanggan kami."
+  text = "betonmixmurah-com.pages.dev adalah website resmi jasa berpengalaman sebagai supplier pagar panel beton dan layanan sewa truk crane terpercaya di wilayah Jabodetabek, Jawa Barat, dan Banten. Kami berkomitmen untuk menyediakan produk berkualitas tinggi dan layanan yang memenuhi kebutuhan dan harapan pelanggan kami."
 
   [[params.footer_contact]]
     icon = "fas fa-map-marker-alt"
@@ -162,42 +162,42 @@ paginate = 6
 [[params.testimonials]]
 avatar = "/images/admin/avatar1.png"
 name = "{Budi|Joko|Andi|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi|Surya|Irwan|Gunawan|Dani|Rahman}"
-message = "Saya {sangat puas|terkesan|kagum} dengan {layanan|service|jasa} pagar panel dan sewa truk crane dari betonmixmurah.com untuk {proyek|pembangunan|konstruksi|pengerjaan|renovasi} {rumah|gedung|bangunan} saya. {Hasilnya|Kualitasnya|Pengerjaannya} {sangat memuaskan|luar biasa|menakjubkan|sempurna|excellent} dan {proses pengerjaannya|pelaksanaannya|penanganannya} {sangat rapi|profesional|terstruktur|sistematis|terorganisir}. {Tim teknisnya|Para pekerjanya|Stafnya} {sangat berpengalaman|ahli|kompeten|handal|terampil} dan material yang {disediakan|dikirim|dipasok|digunakan} {berkualitas tinggi|bermutu premium|kualitas terbaik|standar tinggi}."
+message = "Saya {sangat puas|terkesan|kagum} dengan {layanan|service|jasa} pagar panel dan sewa truk crane dari betonmixmurah-com.pages.dev untuk {proyek|pembangunan|konstruksi|pengerjaan|renovasi} {rumah|gedung|bangunan} saya. {Hasilnya|Kualitasnya|Pengerjaannya} {sangat memuaskan|luar biasa|menakjubkan|sempurna|excellent} dan {proses pengerjaannya|pelaksanaannya|penanganannya} {sangat rapi|profesional|terstruktur|sistematis|terorganisir}. {Tim teknisnya|Para pekerjanya|Stafnya} {sangat berpengalaman|ahli|kompeten|handal|terampil} dan material yang {disediakan|dikirim|dipasok|digunakan} {berkualitas tinggi|bermutu premium|kualitas terbaik|standar tinggi}."
 response = "{Terima kasih|Kami berterima kasih|Apresiasi tinggi} atas {kepercayaan|dukungan|pilihan|keyakinan|penilaian} Anda! Kami {akan terus|selalu|senantiasa|berkomitmen} {memberikan|menghadirkan|menyajikan} {layanan|service|pengerjaan} {terbaik|optimal|maksimal|berkualitas} untuk setiap {proyek|pekerjaan|konstruksi} {pelanggan|client|customer} kami."
 rating = 5
 
 [[params.testimonials]]
 avatar = "/images/admin/avatar2.png"
 name = "{Siti|Dewi|Rina|Maya|Lina|Sari|Fitri|Nur|Diah|Ayu|Sarah|Putri|Ratna|Nina|Lisa}"
-message = "betonmixmurah.com {sangat membantu|mempermudah|menyelesaikan|memfasilitasi|mendukung} dalam {memenuhi|menyediakan|mengakomodasi|merealisasikan} kebutuhan pagar panel dan truk crane untuk {proyek|pembangunan|konstruksi|pengerjaan} kami di {Jabodetabek|Jakarta dan sekitarnya|area Jakarta|wilayah Jabodetabek}. {Produk|Material|Barang} yang {kami terima|dikirimkan|disuplai|dipasok} {selalu|senantiasa|konsisten} {berkualitas|bermutu tinggi|terjamin mutunya|sesuai standar} dan {pengirimannya|deliverynya|distribusinya} {tepat waktu|on time|sesuai jadwal|tidak terlambat}. {Pelayanannya|Servicenya|Handling proyeknya} juga {sangat memuaskan|professional|excellent|luar biasa}."
+message = "betonmixmurah-com.pages.dev {sangat membantu|mempermudah|menyelesaikan|memfasilitasi|mendukung} dalam {memenuhi|menyediakan|mengakomodasi|merealisasikan} kebutuhan pagar panel dan truk crane untuk {proyek|pembangunan|konstruksi|pengerjaan} kami di {Jabodetabek|Jakarta dan sekitarnya|area Jakarta|wilayah Jabodetabek}. {Produk|Material|Barang} yang {kami terima|dikirimkan|disuplai|dipasok} {selalu|senantiasa|konsisten} {berkualitas|bermutu tinggi|terjamin mutunya|sesuai standar} dan {pengirimannya|deliverynya|distribusinya} {tepat waktu|on time|sesuai jadwal|tidak terlambat}. {Pelayanannya|Servicenya|Handling proyeknya} juga {sangat memuaskan|professional|excellent|luar biasa}."
 response = "{Terima kasih|Kami apresiasi|Penghargaan tinggi} atas {ulasan|review|testimoni|feedback} {positifnya|baiknya|membangunnya}! {Kepuasan|Kepercayaan|Kenyamanan} {pelanggan|client|customer} adalah {prioritas|fokus|komitmen} utama kami dalam {memberikan|menyediakan|menghadirkan} layanan pagar panel dan truk crane."
 rating = 4
 
 [[params.testimonials]]
 avatar = "/images/admin/avatar3.png"
 name = "{Joko|Bambang|Hadi|Tono|Gilang|Bayu|Faisal|Rizal|Ali|Ahmad|Rudi|Danu|Fadli|Yusuf|Rama}"
-message = "{Pengalaman|Profesionalitas|Keahlian} {5 tahun|bertahun-tahun|yang panjang} mereka {benar-benar|sangat|sungguh} {terlihat|terbukti|tercermin|tergambar} dari {kualitas|mutu|hasil} pengerjaan dan {layanan|service|penanganan proyek} yang {profesional|berkualitas|excellent|memuaskan|terpercaya}. {Sangat puas|Senang sekali|Puas sekali|Bangga|Terkesan} dengan {hasil|kualitas|mutu} {produk|konstruksi|pemasangan} dari betonmixmurah.com. {Tim lapangan|Pekerja|Staf teknis}nya {sangat kooperatif|ramah|responsif|cepat tanggap|profesional}."
+message = "{Pengalaman|Profesionalitas|Keahlian} {5 tahun|bertahun-tahun|yang panjang} mereka {benar-benar|sangat|sungguh} {terlihat|terbukti|tercermin|tergambar} dari {kualitas|mutu|hasil} pengerjaan dan {layanan|service|penanganan proyek} yang {profesional|berkualitas|excellent|memuaskan|terpercaya}. {Sangat puas|Senang sekali|Puas sekali|Bangga|Terkesan} dengan {hasil|kualitas|mutu} {produk|konstruksi|pemasangan} dari betonmixmurah-com.pages.dev. {Tim lapangan|Pekerja|Staf teknis}nya {sangat kooperatif|ramah|responsif|cepat tanggap|profesional}."
 response = "{Terima kasih|Apresiasi tinggi|Kami berterima kasih} atas {kepercayaannya|dukungannya|penilaiannya}! Kami {akan terus|selalu|senantiasa} {berupaya|berusaha|berkomitmen} memberikan {layanan|service|pengerjaan} {terbaik|optimal|maksimal} dengan {standar|kualitas|mutu} tinggi untuk setiap {proyek|pekerjaan|konstruksi}."
 rating = 5
 
 [[params.testimonials]]
 avatar = "/images/admin/avatar4.png"
 name = "{Andi|Eko|Deni|Hendra|Toni|Wawan|Gilang|Ari|Benny|Yudi|Wisnu|Dharma|Adit|Putra|Ramli}"
-message = "Tim betonmixmurah.com {sangat memahami|mengerti dengan baik|memahami betul|sangat mengerti|paham sekali} {kebutuhan|keperluan|permintaan|spesifikasi|requirement} {proyek|pembangunan|konstruksi|pengerjaan|pekerjaan} kami. {Hasil pemasangan|Kualitas pagar panel|Mutu material|Hasil akhir|Pengerjaannya} dan {ketepatan waktu|timeline|jadwal|timing|kecepatan} {pengiriman|delivery|distribusi|supply|penyaluran} {sangat memuaskan|luar biasa|excellent|sempurna|top notch}. {Tidak ada kendala|Semua lancar|Proses mulus|Tanpa hambatan|Sangat lancar} dari {awal|mulai|start} hingga {selesai|finish|akhir|pembangunan rampung|proyek berakhir}."
+message = "Tim betonmixmurah-com.pages.dev {sangat memahami|mengerti dengan baik|memahami betul|sangat mengerti|paham sekali} {kebutuhan|keperluan|permintaan|spesifikasi|requirement} {proyek|pembangunan|konstruksi|pengerjaan|pekerjaan} kami. {Hasil pemasangan|Kualitas pagar panel|Mutu material|Hasil akhir|Pengerjaannya} dan {ketepatan waktu|timeline|jadwal|timing|kecepatan} {pengiriman|delivery|distribusi|supply|penyaluran} {sangat memuaskan|luar biasa|excellent|sempurna|top notch}. {Tidak ada kendala|Semua lancar|Proses mulus|Tanpa hambatan|Sangat lancar} dari {awal|mulai|start} hingga {selesai|finish|akhir|pembangunan rampung|proyek berakhir}."
 response = "Kami {senang|gembira|bahagia|bersyukur} bisa {membantu|mendukung|berkontribusi|berpartisipasi|terlibat}! {Kepuasan|Kepercayaan|Kenyamanan|Kebahagiaan|Feedback} pelanggan adalah {motivasi|dorongan|semangat|inspirasi} kami untuk terus {meningkatkan|mengembangkan|memperbaiki|memaksimalkan|mengoptimalkan} {kualitas|mutu|standar|level} layanan."
 rating = 5
 
 [[params.testimonials]]
 avatar = "/images/admin/avatar5.png"
 name = "{Rina|Siti|Lina|Dewi|Ayu|Sari|Fitri|Maya|Nur|Diah|Anita|Vina|Rini|Susan|Clara}"
-message = "Pelayanan betonmixmurah.com {sangat membantu|memudahkan|mempercepat|melancarkan|mengoptimalkan} {proyek|pembangunan|konstruksi|pengerjaan|pekerjaan} {konstruksi|pembangunan|pengembangan|renovasi} kami. {Proses pengerjaan|Pelaksanaan|Implementasi|Eksekusi|Penanganan} {rapi|teratur|terstruktur|sistematis|profesional} dan {hasilnya|outcomenya|kualitasnya|mutunya|produknya} {memuaskan|berkualitas|excellent|sempurna|optimal}. {Komunikasi|Koordinasi|Interaksi|Hubungan kerja|Kolaborasi} dengan tim teknis juga {sangat baik|lancar|profesional|responsif|cepat tanggap}. {Harga|Biaya|Tarif|Price|Rate}nya juga {sangat kompetitif|bersaing|reasonable|terjangkau|ekonomis}."
+message = "Pelayanan betonmixmurah-com.pages.dev {sangat membantu|memudahkan|mempercepat|melancarkan|mengoptimalkan} {proyek|pembangunan|konstruksi|pengerjaan|pekerjaan} {konstruksi|pembangunan|pengembangan|renovasi} kami. {Proses pengerjaan|Pelaksanaan|Implementasi|Eksekusi|Penanganan} {rapi|teratur|terstruktur|sistematis|profesional} dan {hasilnya|outcomenya|kualitasnya|mutunya|produknya} {memuaskan|berkualitas|excellent|sempurna|optimal}. {Komunikasi|Koordinasi|Interaksi|Hubungan kerja|Kolaborasi} dengan tim teknis juga {sangat baik|lancar|profesional|responsif|cepat tanggap}. {Harga|Biaya|Tarif|Price|Rate}nya juga {sangat kompetitif|bersaing|reasonable|terjangkau|ekonomis}."
 response = "{Terima kasih|Kami berterima kasih|Apresiasi tinggi|Penghargaan|Syukron} atas {kepercayaan|dukungan|keyakinan|penilaian|testimoni} Anda! Kami {berkomitmen|bertekad|berdedikasi|berusaha|berupaya} untuk selalu {memberikan|menghadirkan|menyajikan|mempersembahkan|menyediakan} {hasil|outcome|kualitas|produk} {terbaik|optimal|maksimal|superior|excellent} untuk setiap {proyek|pekerjaan|konstruksi|pembangunan}."
 rating = 5
 
 [[params.testimonials]]
 avatar = "/images/admin/avatar6.png"
 name = "{Eko|Rio|Galih|Faisal|Yanto|Benny|Toni|Deni|Rizal|Wawan|Indra|Arief|Hafiz|Ridwan|Lukman}"
-message = "{Kualitas|Mutu|Standar} pagar panel dan {layanan|service|pelayanan|pengerjaan|penanganan} dari betonmixmurah.com {selalu konsisten|sangat terjaga|terjamin|reliable|dapat diandalkan}. {Tim teknisnya|Para pekerjanya|Stafnya|Personilnya|Timnya} {sangat kooperatif|profesional|berpengalaman|terampil|ahli} dan {cepat tanggap|responsif|sigap|proaktif|solutif} dalam {menangani|mengerjakan|menyelesaikan|mengeksekusi|mengatasi} setiap {situasi|kondisi|keadaan|masalah|tantangan}. {Sangat merekomendasikan|Pasti merekomendasikan|Merekomendasikan sekali|Tidak ragu merekomendasikan|Siap merekomendasikan} untuk {proyek|pekerjaan|konstruksi|pembangunan} {skala besar|skala kecil|segala ukuran|berbagai skala|semua jenis proyek}."
+message = "{Kualitas|Mutu|Standar} pagar panel dan {layanan|service|pelayanan|pengerjaan|penanganan} dari betonmixmurah-com.pages.dev {selalu konsisten|sangat terjaga|terjamin|reliable|dapat diandalkan}. {Tim teknisnya|Para pekerjanya|Stafnya|Personilnya|Timnya} {sangat kooperatif|profesional|berpengalaman|terampil|ahli} dan {cepat tanggap|responsif|sigap|proaktif|solutif} dalam {menangani|mengerjakan|menyelesaikan|mengeksekusi|mengatasi} setiap {situasi|kondisi|keadaan|masalah|tantangan}. {Sangat merekomendasikan|Pasti merekomendasikan|Merekomendasikan sekali|Tidak ragu merekomendasikan|Siap merekomendasikan} untuk {proyek|pekerjaan|konstruksi|pembangunan} {skala besar|skala kecil|segala ukuran|berbagai skala|semua jenis proyek}."
 response = "{Terima kasih|Apresiasi tinggi|Kami berterima kasih|Penghargaan|Syukron} atas {rekomendasinya|referensinya|testimoninya|dukungannya|kepercayaannya}! Kami akan {terus|selalu|senantiasa|konsisten} {menjaga|mempertahankan|meningkatkan|mengembangkan|mengoptimalkan} {kualitas|mutu|standar} dan {layanan|service|pengerjaan} kami untuk {kepuasan|kenyamanan|kebahagiaan} {pelanggan|client|customer|konsumen|mitra}."
 rating = 5
 

@@ -65,7 +65,7 @@ if (updatedCount > 0) {
   execSync('hugo', { stdio: 'inherit' });
   
   // Lakukan ping ke mesin pencari
-  const sitemapUrl = 'https://betonmixmurah.com/sitemap.xml';
+  const sitemapUrl = 'https://betonmixmurah-com.pages.dev/sitemap.xml';
   pingSearchEngines(sitemapUrl);
 } else {
   console.log('Tidak ada artikel yang perlu diperbarui.');
