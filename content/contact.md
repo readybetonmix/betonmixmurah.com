@@ -2,7 +2,7 @@
 title: "Kontak"
 layout: "contact"
 draft: false
-_build:
+build:
   list: never
   render: always
 ---
