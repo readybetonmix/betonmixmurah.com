@@ -1,63 +1,64 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Budi
+    name: Samsul
     message: >-
-      Saya sangat puas dengan jasa pagar panel dan sewa truk crane dari
-      betonmixmurah-com.pages.dev untuk renovasi gedung saya. Pengerjaannya luar
-      biasa dan proses pengerjaannya terorganisir. Para pekerjanya terampil dan
-      material yang dikirim berkualitas tinggi.
+      Saya terkesan dengan layanan pagar panel dan sewa truk crane dari
+      betonmixmurah-com.pages.dev untuk renovasi rumah saya. Hasilnya luar biasa
+      dan pelaksanaannya terstruktur. Para pekerjanya ahli dan material yang
+      dipasok bermutu premium.
     response: >-
-      Apresiasi tinggi atas penilaian Anda! Kami berkomitmen menghadirkan
-      pengerjaan berkualitas untuk setiap konstruksi client kami.
+      Terima kasih atas penilaian Anda! Kami akan terus memberikan layanan
+      terbaik untuk setiap konstruksi client kami.
     rating: 5
   - avatar: /images/admin/avatar2.png
-    name: Siti
+    name: Ayu
     message: >-
-      betonmixmurah-com.pages.dev sangat membantu dalam mengakomodasi kebutuhan
-      pagar panel dan truk crane untuk konstruksi kami di wilayah Jabodetabek.
-      Barang yang dikirimkan konsisten bermutu tinggi dan deliverynya tidak
-      terlambat. Pelayanannya juga luar biasa.
+      betonmixmurah-com.pages.dev menyelesaikan dalam merealisasikan kebutuhan
+      pagar panel dan truk crane untuk pengerjaan kami di wilayah Jabodetabek.
+      Material yang disuplai konsisten sesuai standar dan deliverynya tepat
+      waktu. Pelayanannya juga sangat memuaskan.
     response: >-
-      Terima kasih atas review membangunnya! Kepercayaan client adalah komitmen
-      utama kami dalam menyediakan layanan pagar panel dan truk crane.
+      Kami apresiasi atas testimoni membangunnya! Kepuasan pelanggan adalah
+      komitmen utama kami dalam memberikan layanan pagar panel dan truk crane.
     rating: 4
   - avatar: /images/admin/avatar3.png
-    name: Faisal
+    name: Rudi
     message: >-
-      Pengalaman bertahun-tahun mereka benar-benar tergambar dari kualitas
-      pengerjaan dan penanganan proyek yang terpercaya. Sangat puas dengan hasil
-      konstruksi dari betonmixmurah-com.pages.dev. Pekerjanya ramah.
+      Profesionalitas bertahun-tahun mereka benar-benar terlihat dari mutu
+      pengerjaan dan penanganan proyek yang excellent. Senang sekali dengan
+      kualitas produk dari betonmixmurah-com.pages.dev. Staf teknisnya sangat
+      kooperatif.
     response: >-
-      Apresiasi tinggi atas penilaiannya! Kami senantiasa berusaha memberikan
-      service maksimal dengan kualitas tinggi untuk setiap proyek.
+      Apresiasi tinggi atas dukungannya! Kami senantiasa berupaya memberikan
+      layanan terbaik dengan kualitas tinggi untuk setiap proyek.
     rating: 5
   - avatar: /images/admin/avatar4.png
-    name: Ari
-    message: >-
-      Tim betonmixmurah-com.pages.dev paham sekali permintaan pembangunan kami.
-      Hasil akhir dan timeline supply luar biasa. Proses mulus dari start hingga
-      finish.
-    response: >-
-      Kami bersyukur bisa membantu! Kebahagiaan pelanggan adalah semangat kami
-      untuk terus mengembangkan mutu layanan.
-    rating: 5
-  - avatar: /images/admin/avatar5.png
-    name: Sari
-    message: >-
-      Pelayanan betonmixmurah-com.pages.dev memudahkan pembangunan konstruksi
-      kami. Penanganan profesional dan outcomenya optimal. Interaksi dengan tim
-      teknis juga lancar. Pricenya juga sangat kompetitif.
-    response: >-
-      Terima kasih atas penilaian Anda! Kami berkomitmen untuk selalu
-      mempersembahkan produk terbaik untuk setiap pekerjaan.
-    rating: 5
-  - avatar: /images/admin/avatar6.png
     name: Eko
     message: >-
-      Kualitas pagar panel dan pelayanan dari betonmixmurah-com.pages.dev dapat
-      diandalkan. Personilnya berpengalaman dan sigap dalam menangani setiap
-      keadaan. Sangat merekomendasikan untuk pembangunan semua jenis proyek.
+      Tim betonmixmurah-com.pages.dev sangat memahami spesifikasi proyek kami.
+      Hasil pemasangan dan timeline supply luar biasa. Proses mulus dari start
+      hingga proyek berakhir.
     response: >-
-      Kami berterima kasih atas referensinya! Kami akan senantiasa meningkatkan
-      standar dan layanan kami untuk kenyamanan mitra.
+      Kami bersyukur bisa berpartisipasi! Feedback pelanggan adalah dorongan
+      kami untuk terus mengoptimalkan level layanan.
+    rating: 5
+  - avatar: /images/admin/avatar5.png
+    name: Rini
+    message: >-
+      Pelayanan betonmixmurah-com.pages.dev sangat membantu proyek pengembangan
+      kami. Implementasi terstruktur dan mutunya berkualitas. Kolaborasi dengan
+      tim teknis juga cepat tanggap. Harganya juga terjangkau.
+    response: >-
+      Terima kasih atas dukungan Anda! Kami bertekad untuk selalu menyediakan
+      produk excellent untuk setiap proyek.
+    rating: 5
+  - avatar: /images/admin/avatar6.png
+    name: Lukman
+    message: >-
+      Standar pagar panel dan pengerjaan dari betonmixmurah-com.pages.dev selalu
+      konsisten. Stafnya terampil dan responsif dalam mengeksekusi setiap
+      masalah. Merekomendasikan sekali untuk proyek berbagai skala.
+    response: >-
+      Terima kasih atas rekomendasinya! Kami akan senantiasa menjaga kualitas
+      dan pengerjaan kami untuk kenyamanan customer.
     rating: 5
