@@ -122,7 +122,7 @@ paginate = 6
   companyWeb = "betonmixmurah-com.pages.dev"
 
   # Informasi Kontak
-  phone = "0813-1895-5453"
+  phone = "0813-8050-0660"
   email = "readybetonmix@gmail.com"
   address = "Jl. Pesantren Al Fatah No.41, Pasir Angin, Kec. Cileungsi, Kab. Bogor, Jawa Barat 16820"
   whatsappNumber = "6281380500660"
@@ -154,7 +154,7 @@ paginate = 6
     text = "Jl. Pesantren Al Fatah No.41, Pasir Angin, Kec. Cileungsi, Kab. Bogor, Jawa Barat 16820"
   [[params.footer_contact]]
     icon = "fas fa-phone-alt"
-    text = "0813-1895-5453"
+    text = "0813-8050-0660"
   [[params.footer_contact]]
     icon = "fas fa-envelope"
     text = "readybetonmix@gmail.com"
