@@ -21,8 +21,8 @@ paginate = 6
   favicon = "/images/logo/favicon.ico"
   featured_image = "/images/admin/featured-image.png"
   author = "Hudoyo P"
-  telepon = "//+6281318955453"
-  whatsapp = "//api.whatsapp.com/send?phone=6281318955453&text=*Halo betonmixmurah-com.pages.dev*%20%3A"
+  telepon = "//+6281380500660"
+  whatsapp = "//api.whatsapp.com/send?phone=6281380500660&text=*Halo betonmixmurah-com.pages.dev*%20%3A"
   enableWhatApps = true
   enableTelepon = true
   tocMinWordCount = 300
@@ -125,7 +125,7 @@ paginate = 6
   phone = "0813-1895-5453"
   email = "readybetonmix@gmail.com"
   address = "Jl. Pesantren Al Fatah No.41, Pasir Angin, Kec. Cileungsi, Kab. Bogor, Jawa Barat 16820"
-  whatsappNumber = "6281318955453"
+  whatsappNumber = "6281380500660"
 
 # Hero Section
   hero_image = "/images/admin/pagar-panel-beton.jpg"
