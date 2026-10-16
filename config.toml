@@ -254,6 +254,10 @@ rating = 5
     title = "Truk Crane"
     url = "/crane/"
 
+  [[params.menu_items]]
+    title = "Blog"
+    url = "/blog/"
+
 [params.header]
    title = "Supplier Pagar Panel Beton dan Sewa Truk Crane Terbaik"
 
@@ -261,6 +265,12 @@ rating = 5
   [markup.tableOfContents]
     startLevel = 1
     endLevel = 3
+
+  # Required by tools/lib/safe-table.js: AI-generated tables are rendered as raw HTML
+  # (<table class="table">), which Hugo only keeps when unsafe = true.
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [related]
   threshold = 80

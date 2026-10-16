@@ -30,6 +30,10 @@
           {{ end }}
         <div class="post-content">
          {{ $related := .Site.RegularPages.Related . | first 5 }}
+         {{/* Fallback: a page without enough related pages (e.g. the first articles in /blog/) uses other pages of its own section, so `index` below can never run out of range. */}}
+         {{ if lt (len $related) 3 }}
+           {{ $related = where (where .Site.RegularPages "Section" .Section) "Permalink" "!=" .Permalink | first 5 }}
+         {{ end }}
         {{ $shuffledRelated := shuffle $related }}
          {{ $content := .Content }}
          {{ $paragraphs := split $content "<p>" }}
@@ -39,7 +43,7 @@
           {{ range $index, $paragraph := $paragraphs }}
            {{ if eq $index 0 }} {{ $newContent = $paragraph }} {{ else }} {{ $newContent = printf "%s<p>%s" $newContent $paragraph }} {{ end }}    
             {{ $count = add $count 1 }}
-            {{ if and (gt $count 3) (lt $relatedCount 3) }}
+            {{ if and (gt $count 3) (lt $relatedCount 3) (lt $relatedCount (len $shuffledRelated)) }}
               {{ $randomRelated := index $shuffledRelated $relatedCount }}
               {{ $newContent = printf "%s<div class='inline-related-post'>Lainnya: <a href='%s'>%s</a></div>" $newContent $randomRelated.RelPermalink $randomRelated.Title }}
               {{ $relatedCount = add $relatedCount 1 }}

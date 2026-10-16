@@ -11,9 +11,11 @@
   <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <title>{{ printf "%s - %d" .Title (now.Year) }}</title>
-  <meta name="description" content="{{ .Summary | plainify | truncate 160 }}">
+  {{- /* Meta description: front-matter `description` (set by tools/generate-articles.js) wins, otherwise the page summary. */ -}}
+  {{- $pageDesc := (.Description | default (.Summary | plainify)) | plainify | truncate 160 -}}
+  <meta name="description" content="{{ $pageDesc }}">
   {{- $ogTitle := printf "%s - %d" .Title (now.Year) -}}
-  {{- $ogDescription := .Summary | plainify | truncate 160 -}}
+  {{- $ogDescription := $pageDesc -}}
   {{- $removeWords := "^(Jual|Sewa|Harga|Biaya|Tukang) " -}}
   {{- $titleKeywords := replaceRE $removeWords "" .Title | lower -}}
   {{- $globalKeywords := .Site.Params.keywords -}}
@@ -25,6 +27,8 @@
     <meta property="og:type" content="service">
   {{ else if eq .Params.type "product" }}
     <meta property="og:type" content="product">
+  {{ else if eq .Section "blog" }}
+    <meta property="og:type" content="article">
   {{ else }}
     <meta property="og:type" content="localbusiness">
   {{ end }}
@@ -914,13 +918,17 @@ caption {
     {{ end }}
     <span>{{ .Title }}</span>
     </nav>
-    <p class="post-meta">Dibuat pada {{ .Date.Format "2 January 2006" }} Oleh {{ .Site.Params.author }}</p>
+    <p class="post-meta">Dibuat pada {{ .Date.Format "2 January 2006" }}{{ if gt .Lastmod.Unix .Date.Unix }} &middot; Direvisi pada {{ .Lastmod.Format "2 January 2006" }}{{ end }} Oleh {{ .Site.Params.author }}</p>
     {{ if and (.Params.toc) (gt .WordCount .Site.Params.tocMinWordCount) }}
     {{ .TableOfContents }}
     {{ end }}
   </div>
   <div class="post-content">
       {{ $related := .Site.RegularPages.Related . | first 5 }}
+      {{/* Fallback: a page without enough related pages (e.g. the first articles in /blog/) uses other pages of its own section, so `index` below can never run out of range. */}}
+      {{ if lt (len $related) 3 }}
+        {{ $related = where (where .Site.RegularPages "Section" .Section) "Permalink" "!=" .Permalink | first 5 }}
+      {{ end }}
       {{ $shuffledRelated := shuffle $related }}
       {{ $content := .Content }}
       {{ $content = replaceRE "<img src=\"([^\"]+)\".*?alt=\"([^\"]*)\".*?>" "<amp-img src=\"$1\" alt=\"$2\" layout=\"responsive\" width=\"600\" height=\"400\"></amp-img>" $content }}
@@ -935,7 +943,7 @@ caption {
         {{ $newContent = printf "%s<p>%s" $newContent $paragraph }} 
       {{ end }}
       {{ $count = add $count 1 }}
-      {{ if and (gt $count 3) (lt $relatedCount 3) }}
+      {{ if and (gt $count 3) (lt $relatedCount 3) (lt $relatedCount (len $shuffledRelated)) }}
         {{ $randomRelated := index $shuffledRelated $relatedCount }}
         {{ $newContent = printf "%s<div class='inline-related-post'>Lainnya: <a href='%s'>%s</a></div>" $newContent $randomRelated.RelPermalink $randomRelated.Title }}
         {{ $relatedCount = add $relatedCount 1 }}

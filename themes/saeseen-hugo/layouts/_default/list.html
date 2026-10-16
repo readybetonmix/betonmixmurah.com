@@ -22,7 +22,8 @@
      <div class="archive-item">
           <img src="{{ if $featuredImage }}{{ $featuredImage }}{{ else }}/images/admin/featured-image.png{{ end }}" alt="{{ .Title }}" loading="lazy">
           <h3>{{ .Title }}</h3>
-          <p>{{ .Summary | truncate 300 "..." }}</p>
+          {{/* AI articles carry a `description` (meta description); use it for the card when present. */}}
+          <p>{{ with .Params.description }}{{ . | truncate 300 "..." }}{{ else }}{{ .Summary | truncate 300 "..." }}{{ end }}</p>
           <a href="{{ .Permalink }}" class="read-more">Baca Selengkapnya</a>
         </div>
       {{ end }}
@@ -41,5 +42,5 @@
     </div>
    </div>
 </section>
-<main>
+</main>
 {{ end }}
