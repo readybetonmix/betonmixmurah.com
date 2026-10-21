@@ -1,6 +1,7 @@
 ---
 title: "Memilih Crane yang Tepat: Perbedaan Truk Crane 10 Ton dan 20 Ton untuk Proyek Anda"
 date: "2026-10-21"
+lastmod: "2026-10-21"
 categories: ["blog"]
 focus_keyphrase: "perbedaan truk crane 10 ton dan 20 ton"
 meta_title: "Memilih Crane yang Tepat: Perbedaan Truk Crane 10 Ton dan 20 Ton untuk Proyek Anda - BetonMixMurah"
@@ -21,7 +22,7 @@ Tahukah Anda bahwa pemilihan crane yang tidak sesuai dengan kebutuhan proyek dap
 
 Perbedaan mendasar antara truk crane 10 ton dan 20 ton terletak pada kapasitas angkat maksimalnya. Truk crane 10 ton, sebagaimana namanya, mampu mengangkat beban hingga 10 ton. Sementara itu, truk crane 20 ton memiliki kemampuan mengangkat beban dua kali lipat, yaitu hingga 20 ton. Namun, kapasitas ini bervariasi tergantung pada radius jangkauannya. Semakin jauh jarak beban dari titik tumpu crane, semakin berkurang kapasitas angkatnya.
 
-Radius jangkauan mengacu pada jarak horizontal dari pusat rotasi crane ke titik beban. Truk crane 20 ton umumnya memiliki radius jangkauan yang lebih besar dibandingkan truk crane 10 ton. Ini memungkinkan pengangkatan dan penempatan material di area yang lebih luas tanpa perlu memindahkan posisi crane secara berulang-ulang. Dalam proyek pemasangan pagar panel beton precast, misalnya, radius jangkauan yang lebih besar dapat mempercepat proses pemasangan, terutama jika panel-panel tersebut perlu diposisikan di lokasi yang sulit dijangkau.
+Radius jangkauan mengacu pada jarak horizontal dari pusat rotasi crane ke titik beban. Truk crane 20 ton umumnya memiliki radius jangkauan yang lebih besar dibandingkan truk crane 10 ton. Ini memungkinkan pengangkatan dan penempatan material di area yang lebih luas tanpa perlu memindahkan posisi crane secara berulang-ulang. Dalam proyek pemasangan pagar panel beton precast, misalnya, radius jangkauan yang lebih besar dapat mempercepat proses pemasangan, terutama jika panel-panel tersebut perlu diposisikan di lokasi yang sulit dijangkau, dan memahami [kapasitas angkat truk crane per tonase](/blog/kapasitas-angkat-truk-crane-per-tonase/) akan membantu Anda memilih alat yang tepat.
 
 ## Aplikasi Ideal Truk Crane 10 Ton dan 20 Ton
 

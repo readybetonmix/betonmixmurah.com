@@ -2,7 +2,7 @@
 title: Harga Sewa Truk Crane di Antapani Kota Bandung Harian
 date: '2023-09-25'
 categories: '[crane]'
-lastmod: '2026-08-27'
+lastmod: "2026-10-21"
 ---
 
 **Sahabat Betonmixmurah.com**, Keberhasilan sebuah proyek dalam dunia konstruksi sering kali tergantung pada perangkat yang digunakan. Crane, sebagai perangkat berat andalan, menjadi tulang punggung pengangkatan material berat, seperti beton, baja, dan komponen besar lainnya. Tanpa crane yang dapat diandalkan, tugas yang membutuhkan presisi tinggi dan efisiensi waktu akan menjadi tantangan dilakukan.
@@ -45,7 +45,7 @@ Seluruh crane yang kami sediakan telah melalui inspeksi dan pemeliharaan berkala
 
 ## Area Layanan  
 
-Kami melayani berbagai wilayah di Antapani Kota Bandung, termasuk Cibinong, Sentul, Parung, Sukaraja, hingga Dramaga. Dengan jangkauan area yang luas, Anda dapat mengandalkan kami untuk kebutuhan proyek di mana saja di Antapani Kota Bandung dan sekitarnya.  
+Kami melayani berbagai wilayah di Antapani Kota Bandung, termasuk Cibinong, Sentul, Parung, Sukaraja, hingga Dramaga, serta menyediakan layanan [sewa truk crane di Andir Kota Bandung](/crane/harga-sewa-truk-crane-di-andir-kota-bandung-harian/). Dengan jangkauan area yang luas, Anda dapat mengandalkan kami untuk kebutuhan proyek di mana saja di Antapani Kota Bandung dan sekitarnya.  
 
 ## Sistem Penyewaan  
 

@@ -1,0 +1,16 @@
+{
+  "fixed": [
+    "/blog/100-ton-crane-rental-cost/",
+    "/blog/kapasitas-angkat-truk-crane-per-tonase/",
+    "/crane/harga-sewa-truk-crane-di-andir-kota-bandung-harian/"
+  ],
+  "failed": {
+    "/blog/cara-memasang-pagar-panel-beton-sendiri/": 1,
+    "/blog/cara-pemasangan-pagar-panel-beton/": 1,
+    "/blog/pagar-beton-per-meter/": 1,
+    "/blog/perbedaan-pagar-panel-beton-polos-dan-motif/": 1,
+    "/blog/perbedaan-truk-crane-10-ton-dan-20-ton/": 1,
+    "/blog/ukuran-pagar-panel-beton-precast/": 1,
+    "/blog/ukuran-truk-crane-10-ton/": 1
+  }
+}
