@@ -1,7 +1,7 @@
 ---
 title: "Memaksimalkan Efisiensi Proyek: Panduan Lengkap Jarak Jangkau Boom Truk Crane"
 date: "2026-10-25"
-lastmod: "2026-10-25"
+lastmod: "2026-10-28"
 categories: ["blog"]
 focus_keyphrase: "jarak jangkau boom truk crane"
 meta_title: "Memaksimalkan Efisiensi Proyek: Panduan Lengkap Jarak Jangkau Boom Truk Crane - BetonMixMurah"
@@ -43,7 +43,7 @@ Di samping jenis material dan kapasitas angkat, ada beberapa faktor lain yang si
 *   **Kondisi Medan:** Permukaan yang tidak rata atau berlumpur dapat mengurangi stabilitas crane dan membatasi jangkauan kerjanya.
 *   **Kondisi Cuaca:** Angin kencang dapat mengganggu stabilitas crane dan menurunkan kapasitas angkatnya. Penyesuaian jarak jangkau dan beban yang diangkat diperlukan dalam kondisi seperti ini.
 
-Selalu lakukan kalkulasi yang cermat dan berkonsultasi dengan operator crane yang berpengalaman untuk memastikan keamanan dan efisiensi. Operator dapat memberikan panduan tentang pemilihan crane yang tepat dan pengaturan boom yang optimal untuk kondisi proyek Anda di (not detected).
+Selalu lakukan kalkulasi yang cermat dan berkonsultasi dengan operator crane yang berpengalaman untuk memastikan [keamanan kerja saat memakai truk crane](/blog/keselamatan-kerja-saat-memakai-truk-crane/) dan efisiensi. Operator dapat memberikan panduan tentang pemilihan crane yang tepat dan pengaturan boom yang optimal untuk kondisi proyek Anda di (not detected).
 
 ## Contoh Kasus: Perhitungan Jangkauan untuk Pemasangan Pagar Panel di (not detected)
 
