@@ -2,7 +2,7 @@
 title: Harga Sewa Truk Crane di Arcamanik Kota Bandung Harian
 date: '2023-11-24'
 categories: '[crane]'
-lastmod: '2026-08-27'
+lastmod: "2026-11-25"
 ---
 
 **Halo Sahabat Betonmixmurah.com**, Sedang mengerjakan proyek konstruksi signifikan di daerah Arcamanik Kota Bandung? Jika jawabannya ya, Anda tentu memahami seberapa penting crane dalam mempercepatkan pekerjaan dan menjamin hasil yang maksimal. Crane bukan hanya alat berat; ia adalah solusi untuk berbagai tantangan dalam konstruksi modern.
@@ -19,7 +19,7 @@ Sebagai penyedia layanan alat berat terkemuka di Arcamanik Kota Bandung, kami me
 
 - **Mobile Crane**  
 
-  Mobile crane dirancang untuk pergerakan tinggi dengan fleksibilitas yang luar biasa. Alat ini ideal digunakan di lokasi-lokasi yang butuh perpindahan cepat antar lokasi kerja. Dengan kapasitas angkat hingga 50 ton, mobile crane sesuai untuk proyek seperti pengangkatan balok beton, rangka baja, atau alat berat lainnya.  
+  Mobile crane dirancang untuk pergerakan tinggi dengan fleksibilitas yang luar biasa. Alat ini ideal digunakan di lokasi-lokasi yang butuh perpindahan cepat antar lokasi kerja. Dengan kapasitas angkat hingga 50 ton, mobile crane sesuai untuk proyek seperti pengangkatan balok beton, rangka baja, atau alat berat lainnya, termasuk proyek di [Jakarta Barat](/crane/harga-sewa-truk-crane-di-cengkareng-jakarta-barat-harian/).  
 
 - **Tower Crane**  
 
